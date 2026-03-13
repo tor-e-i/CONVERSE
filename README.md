@@ -1,6 +1,6 @@
 # CONVERSE: Dataset for Multimodal Conversational Engagement Analysis in Human-Human and Human-Robot Interaction
 
-This repository contains the CONVERSE dataset of conversational engagement annotations in 25 hours of unscripted participant-confederate conversations in Swedish, alongside the supporting code. This dataset extends the multimodal brain imaging NeuroEngage dataset, which includes fMRI, audio, confederate video, and eyetracking recordings: https://openneuro.org/datasets/ds004996. CONVERSE dataset can be used together with fMRI data or on its own.
+This repository contains the CONVERSE dataset of conversational engagement annotations in 25 hours of unscripted participant-confederate conversations in Swedish, alongside the supporting code. This dataset extends the multimodal brain imaging [NeuroEngage](https://openneuro.org/datasets/ds004996) dataset, which includes fMRI, audio, confederate video, and eyetracking recordings. CONVERSE dataset can be used together with fMRI data or on its own.
 
 ## Data
 
