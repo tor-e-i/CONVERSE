@@ -4,7 +4,7 @@ This repository contains the CONVERSE dataset of conversational engagement annot
 
 ## Data
 
-The dataset includes the data from 48 participants conversing with a single female confederate: 28 participants in the human-human group and 20 in the human-robot group (where the confederate remotely operated a Furhat robot via a VR-mediated Wizard-of-Oz interface). Each participant held three unscripted conversations centered around ethical dilemmas, each lasting 10 minutes. In each conversation, the level of engagement was varied via the confederate's verbal and non-verbal behavior. Turns of both speakers were segmented, and the level of participant's conversational engagement at evry turn was annotated using a novel 5-point annotation scheme, together with annotator's confidence for every turn. Additionally, participant's backchannels were annotated for future analysis. The annotation scheme, as well as detailed experiment design, can be found in the accompanying LREC paper (see Cite Us).
+The dataset includes the data from 48 participants conversing with a single female confederate: 28 participants in the human-human group and 20 in the human-robot group (where the confederate remotely operated a Furhat robot via a VR-mediated Wizard-of-Oz interface). Each participant held three unscripted conversations centered around ethical dilemmas, each lasting 10 minutes. In each conversation, the level of engagement was varied via the confederate's verbal and non-verbal behavior. Turns of both speakers were segmented, and the level of participant's conversational engagement at every turn was annotated using a novel 5-point annotation scheme, together with annotator's confidence for every turn. Additionally, participant's backchannels were annotated for future analysis. The annotation scheme, as well as detailed experiment design, can be found in the accompanying LREC paper (see Cite Us).
 
 ## Structure
 
@@ -26,6 +26,7 @@ Data structure:
 |  |  |- ...
 |  |- json                      #contains .json files for every conversation, which includes timestamps of the turns, transcriptions, annotations, and metadata about the session
 |  |  |- ...
+
 ```
 
 Notes:

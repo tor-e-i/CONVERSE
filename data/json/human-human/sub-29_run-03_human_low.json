@@ -1,0 +1,4683 @@
+{
+    "annotation": {
+        "0.2": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:00:00.200",
+                    "hhmmssff": "00:00:00:05",
+                    "msec": 200,
+                    "sec": 0.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.600",
+                    "hhmmssff": "00:00:00:15",
+                    "msec": 600,
+                    "sec": 0.6
+                },
+                "end": {
+                    "hhmmssddd": "00:00:00.800",
+                    "hhmmssff": "00:00:00:20",
+                    "msec": 800,
+                    "sec": 0.8
+                },
+                "value": "hallå"
+            }
+        },
+        "1.0": {
+            "confidence_production": {
+                "begin": {
+                    "hhmmssddd": "00:00:01.000",
+                    "hhmmssff": "00:00:01:00",
+                    "msec": 1000,
+                    "sec": 1.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.300",
+                    "hhmmssff": "00:00:00:07",
+                    "msec": 300,
+                    "sec": 0.3
+                },
+                "end": {
+                    "hhmmssddd": "00:00:01.300",
+                    "hhmmssff": "00:00:01:07",
+                    "msec": 1300,
+                    "sec": 1.3
+                },
+                "value": "5"
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:01.000",
+                    "hhmmssff": "00:00:01:00",
+                    "msec": 1000,
+                    "sec": 1.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.300",
+                    "hhmmssff": "00:00:00:07",
+                    "msec": 300,
+                    "sec": 0.3
+                },
+                "end": {
+                    "hhmmssddd": "00:00:01.300",
+                    "hhmmssff": "00:00:01:07",
+                    "msec": 1300,
+                    "sec": 1.3
+                },
+                "value": "hej"
+            },
+            "production_annotation": {
+                "begin": {
+                    "hhmmssddd": "00:00:01.000",
+                    "hhmmssff": "00:00:01:00",
+                    "msec": 1000,
+                    "sec": 1.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.300",
+                    "hhmmssff": "00:00:00:07",
+                    "msec": 300,
+                    "sec": 0.3
+                },
+                "end": {
+                    "hhmmssddd": "00:00:01.300",
+                    "hhmmssff": "00:00:01:07",
+                    "msec": 1300,
+                    "sec": 1.3
+                },
+                "value": "3"
+            }
+        },
+        "2.2": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:00:02.200",
+                    "hhmmssff": "00:00:02:05",
+                    "msec": 2200,
+                    "sec": 2.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:00:02.700",
+                    "hhmmssff": "00:00:02:17",
+                    "msec": 2700,
+                    "sec": 2.7
+                },
+                "value": "hej"
+            }
+        },
+        "3.3": {
+            "confidence_production": {
+                "begin": {
+                    "hhmmssddd": "00:00:03.300",
+                    "hhmmssff": "00:00:03:07",
+                    "msec": 3300,
+                    "sec": 3.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:01:38.000",
+                    "hhmmssff": "00:01:38:00",
+                    "msec": 98000,
+                    "sec": 98.0
+                },
+                "end": {
+                    "hhmmssddd": "00:01:41.300",
+                    "hhmmssff": "00:01:41:07",
+                    "msec": 101300,
+                    "sec": 101.3
+                },
+                "value": "3"
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:03.300",
+                    "hhmmssff": "00:00:03:07",
+                    "msec": 3300,
+                    "sec": 3.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.600",
+                    "hhmmssff": "00:00:01:15",
+                    "msec": 1600,
+                    "sec": 1.6
+                },
+                "end": {
+                    "hhmmssddd": "00:00:04.900",
+                    "hhmmssff": "00:00:04:22",
+                    "msec": 4900,
+                    "sec": 4.9
+                },
+                "value": "eh nu var det att"
+            },
+            "production_annotation": {
+                "begin": {
+                    "hhmmssddd": "00:00:03.300",
+                    "hhmmssff": "00:00:03:07",
+                    "msec": 3300,
+                    "sec": 3.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:01:38.000",
+                    "hhmmssff": "00:01:38:00",
+                    "msec": 98000,
+                    "sec": 98.0
+                },
+                "end": {
+                    "hhmmssddd": "00:01:41.300",
+                    "hhmmssff": "00:01:41:07",
+                    "msec": 101300,
+                    "sec": 101.3
+                },
+                "value": "4"
+            }
+        },
+        "5.1": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:05.100",
+                    "hhmmssff": "00:00:05:02",
+                    "msec": 5100,
+                    "sec": 5.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:00:05.500",
+                    "hhmmssff": "00:00:05:12",
+                    "msec": 5500,
+                    "sec": 5.5
+                },
+                "value": "ehm"
+            }
+        },
+        "6.3": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:06.300",
+                    "hhmmssff": "00:00:06:07",
+                    "msec": 6300,
+                    "sec": 6.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:05.900",
+                    "hhmmssff": "00:00:05:22",
+                    "msec": 5900,
+                    "sec": 5.9
+                },
+                "end": {
+                    "hhmmssddd": "00:00:12.200",
+                    "hhmmssff": "00:00:12:05",
+                    "msec": 12200,
+                    "sec": 12.2
+                },
+                "value": "spårning av familjemedlemmar och då stod det att eh det finns en app där föräldrar kan spåra vad deras barn gör"
+            }
+        },
+        "12.8": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:12.800",
+                    "hhmmssff": "00:00:12:20",
+                    "msec": 12800,
+                    "sec": 12.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.200",
+                    "hhmmssff": "00:00:02:05",
+                    "msec": 2200,
+                    "sec": 2.2
+                },
+                "end": {
+                    "hhmmssddd": "00:00:15.000",
+                    "hhmmssff": "00:00:15:00",
+                    "msec": 15000,
+                    "sec": 15.0
+                },
+                "value": "och nu släpper företaget också en app där"
+            }
+        },
+        "15.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:15.400",
+                    "hhmmssff": "00:00:15:10",
+                    "msec": 15400,
+                    "sec": 15.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.000",
+                    "hhmmssff": "00:00:02:00",
+                    "msec": 2000,
+                    "sec": 2.0
+                },
+                "end": {
+                    "hhmmssddd": "00:00:17.400",
+                    "hhmmssff": "00:00:17:10",
+                    "msec": 17400,
+                    "sec": 17.4
+                },
+                "value": "barn kan spåra vad föräldrarna gör"
+            }
+        },
+        "17.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:17.700",
+                    "hhmmssff": "00:00:17:17",
+                    "msec": 17700,
+                    "sec": 17.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.100",
+                    "hhmmssff": "00:00:01:02",
+                    "msec": 1100,
+                    "sec": 1.1
+                },
+                "end": {
+                    "hhmmssddd": "00:00:18.800",
+                    "hhmmssff": "00:00:18:20",
+                    "msec": 18800,
+                    "sec": 18.8
+                },
+                "value": "och då är väl frågan"
+            }
+        },
+        "19.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:19.200",
+                    "hhmmssff": "00:00:19:05",
+                    "msec": 19200,
+                    "sec": 19.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.300",
+                    "hhmmssff": "00:00:03:07",
+                    "msec": 3300,
+                    "sec": 3.3
+                },
+                "end": {
+                    "hhmmssddd": "00:00:22.500",
+                    "hhmmssff": "00:00:22:12",
+                    "msec": 22500,
+                    "sec": 22.5
+                },
+                "value": "är det här något bra? att barn och föräldrar kan spåra varandra?"
+            }
+        },
+        "23.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:23.200",
+                    "hhmmssff": "00:00:23:05",
+                    "msec": 23200,
+                    "sec": 23.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.200",
+                    "hhmmssff": "00:00:01:05",
+                    "msec": 1200,
+                    "sec": 1.2
+                },
+                "end": {
+                    "hhmmssddd": "00:00:24.400",
+                    "hhmmssff": "00:00:24:10",
+                    "msec": 24400,
+                    "sec": 24.4
+                },
+                "value": "eller hålla koll på vad de"
+            }
+        },
+        "24.8": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:24.800",
+                    "hhmmssff": "00:00:24:20",
+                    "msec": 24800,
+                    "sec": 24.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.700",
+                    "hhmmssff": "00:00:00:17",
+                    "msec": 700,
+                    "sec": 0.7
+                },
+                "end": {
+                    "hhmmssddd": "00:00:25.500",
+                    "hhmmssff": "00:00:25:12",
+                    "msec": 25500,
+                    "sec": 25.5
+                },
+                "value": "vad de gör?"
+            }
+        },
+        "27.3": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:27.300",
+                    "hhmmssff": "00:00:27:07",
+                    "msec": 27300,
+                    "sec": 27.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:00:27.800",
+                    "hhmmssff": "00:00:27:20",
+                    "msec": 27800,
+                    "sec": 27.8
+                },
+                "value": "ehm"
+            }
+        },
+        "28.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:28.600",
+                    "hhmmssff": "00:00:28:15",
+                    "msec": 28600,
+                    "sec": 28.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:06.300",
+                    "hhmmssff": "00:00:06:07",
+                    "msec": 6300,
+                    "sec": 6.3
+                },
+                "end": {
+                    "hhmmssddd": "00:00:34.900",
+                    "hhmmssff": "00:00:34:22",
+                    "msec": 34900,
+                    "sec": 34.9
+                },
+                "value": "och jag tycker spontant att det var lite speciellt eller jag tycker att det är en jäkla skillnad på att föräldrar håller koll på barn och barn håller koll på föräldrar eller jag tänker ja du vet"
+            }
+        },
+        "35.1": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:35.100",
+                    "hhmmssff": "00:00:35:02",
+                    "msec": 35100,
+                    "sec": 35.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:00:35.500",
+                    "hhmmssff": "00:00:35:12",
+                    "msec": 35500,
+                    "sec": 35.5
+                },
+                "value": "just"
+            }
+        },
+        "36.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:36.400",
+                    "hhmmssff": "00:00:36:10",
+                    "msec": 36400,
+                    "sec": 36.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.500",
+                    "hhmmssff": "00:00:04:12",
+                    "msec": 4500,
+                    "sec": 4.5
+                },
+                "end": {
+                    "hhmmssddd": "00:00:40.900",
+                    "hhmmssff": "00:00:40:22",
+                    "msec": 40900,
+                    "sec": 40.9
+                },
+                "value": "vuxna och barn ja alltså jag ser kanske lite mer en anledning att föräldrarna ska hålla koll på barn medan"
+            }
+        },
+        "41.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:41.400",
+                    "hhmmssff": "00:00:41:10",
+                    "msec": 41400,
+                    "sec": 41.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:07.700",
+                    "hhmmssff": "00:00:07:17",
+                    "msec": 7700,
+                    "sec": 7.7
+                },
+                "end": {
+                    "hhmmssddd": "00:00:49.100",
+                    "hhmmssff": "00:00:49:02",
+                    "msec": 49100,
+                    "sec": 49.1
+                },
+                "value": "barn kanske inte alltid ska veta vad vuxna eh håller på med eller det är liksom ska det som delvis vara en värld som har med trygghet har koll på en eftersom de är så små liksom"
+            }
+        },
+        "51.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:51.500",
+                    "hhmmssff": "00:00:51:12",
+                    "msec": 51500,
+                    "sec": 51.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:00:52.000",
+                    "hhmmssff": "00:00:52:00",
+                    "msec": 52000,
+                    "sec": 52.0
+                },
+                "value": "ehm"
+            }
+        },
+        "53.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:53.700",
+                    "hhmmssff": "00:00:53:17",
+                    "msec": 53700,
+                    "sec": 53.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.700",
+                    "hhmmssff": "00:00:01:17",
+                    "msec": 1700,
+                    "sec": 1.7
+                },
+                "end": {
+                    "hhmmssddd": "00:00:55.400",
+                    "hhmmssff": "00:00:55:10",
+                    "msec": 55400,
+                    "sec": 55.4
+                },
+                "value": "men men jag tyckte också att det var svårt"
+            }
+        },
+        "55.9": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:00:55.900",
+                    "hhmmssff": "00:00:55:22",
+                    "msec": 55900,
+                    "sec": 55.9
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:05.100",
+                    "hhmmssff": "00:00:05:02",
+                    "msec": 5100,
+                    "sec": 5.1
+                },
+                "end": {
+                    "hhmmssddd": "00:01:01.000",
+                    "hhmmssff": "00:01:01:00",
+                    "msec": 61000,
+                    "sec": 61.0
+                },
+                "value": "för jag tycker det beror jättemycket på vad det är som spåras alltså jag är ett stort fan av att såhär den här"
+            }
+        },
+        "61.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:01.600",
+                    "hhmmssff": "00:01:01:15",
+                    "msec": 61600,
+                    "sec": 61.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.300",
+                    "hhmmssff": "00:00:01:07",
+                    "msec": 1300,
+                    "sec": 1.3
+                },
+                "end": {
+                    "hhmmssddd": "00:01:02.900",
+                    "hhmmssff": "00:01:02:22",
+                    "msec": 62900,
+                    "sec": 62.9
+                },
+                "value": "liksom veta vart"
+            }
+        },
+        "63.1": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:03.100",
+                    "hhmmssff": "00:01:03:02",
+                    "msec": 63100,
+                    "sec": 63.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.300",
+                    "hhmmssff": "00:00:02:07",
+                    "msec": 2300,
+                    "sec": 2.3
+                },
+                "end": {
+                    "hhmmssddd": "00:01:05.400",
+                    "hhmmssff": "00:01:05:10",
+                    "msec": 65400,
+                    "sec": 65.4
+                },
+                "value": "folk är alltså jag tycker det är jätteskönt att liksom"
+            }
+        },
+        "66.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:06.200",
+                    "hhmmssff": "00:01:06:05",
+                    "msec": 66200,
+                    "sec": 66.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.000",
+                    "hhmmssff": "00:00:02:00",
+                    "msec": 2000,
+                    "sec": 2.0
+                },
+                "end": {
+                    "hhmmssddd": "00:01:08.200",
+                    "hhmmssff": "00:01:08:05",
+                    "msec": 68200,
+                    "sec": 68.2
+                },
+                "value": "eller jag tycker det är ganska skönt att såhär bara min kille"
+            }
+        },
+        "68.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:08.500",
+                    "hhmmssff": "00:01:08:12",
+                    "msec": 68500,
+                    "sec": 68.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.000",
+                    "hhmmssff": "00:00:03:00",
+                    "msec": 3000,
+                    "sec": 3.0
+                },
+                "end": {
+                    "hhmmssddd": "00:01:11.500",
+                    "hhmmssff": "00:01:11:12",
+                    "msec": 71500,
+                    "sec": 71.5
+                },
+                "value": "vet att jag kan se vart jag är på sin mobil bara rent"
+            }
+        },
+        "71.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:11.700",
+                    "hhmmssff": "00:01:11:17",
+                    "msec": 71700,
+                    "sec": 71.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:01:12.200",
+                    "hhmmssff": "00:01:12:05",
+                    "msec": 72200,
+                    "sec": 72.2
+                },
+                "value": "liksom"
+            }
+        },
+        "72.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:12.500",
+                    "hhmmssff": "00:01:12:12",
+                    "msec": 72500,
+                    "sec": 72.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.300",
+                    "hhmmssff": "00:00:03:07",
+                    "msec": 3300,
+                    "sec": 3.3
+                },
+                "end": {
+                    "hhmmssddd": "00:01:15.800",
+                    "hhmmssff": "00:01:15:20",
+                    "msec": 75800,
+                    "sec": 75.8
+                },
+                "value": "säkerhetsmässigt eller ja det det är såhär lite trygghet på något sätt tycker jag"
+            }
+        },
+        "76.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:16.500",
+                    "hhmmssff": "00:01:16:12",
+                    "msec": 76500,
+                    "sec": 76.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:07.800",
+                    "hhmmssff": "00:00:07:20",
+                    "msec": 7800,
+                    "sec": 7.8
+                },
+                "end": {
+                    "hhmmssddd": "00:01:24.300",
+                    "hhmmssff": "00:01:24:07",
+                    "msec": 84300,
+                    "sec": 84.3
+                },
+                "value": "ehm och jag skulle tycka det var jättekonstigt om någon familjemedlem kunde se vad alltså vad jag gjorde på mobil det tycker jag det känns jätteonödigt på något sätt"
+            }
+        },
+        "85.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:25.200",
+                    "hhmmssff": "00:01:25:05",
+                    "msec": 85200,
+                    "sec": 85.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:01:25.700",
+                    "hhmmssff": "00:01:25:17",
+                    "msec": 85700,
+                    "sec": 85.7
+                },
+                "value": "ehm"
+            }
+        },
+        "86.1": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:26.100",
+                    "hhmmssff": "00:01:26:02",
+                    "msec": 86100,
+                    "sec": 86.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.800",
+                    "hhmmssff": "00:00:04:20",
+                    "msec": 4800,
+                    "sec": 4.8
+                },
+                "end": {
+                    "hhmmssddd": "00:01:30.900",
+                    "hhmmssff": "00:01:30:22",
+                    "msec": 90900,
+                    "sec": 90.9
+                },
+                "value": "men jag tänker hos barn kan väl det verkligen vara bra alltså just med sociala medier och så att"
+            }
+        },
+        "91.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:31.200",
+                    "hhmmssff": "00:01:31:05",
+                    "msec": 91200,
+                    "sec": 91.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.300",
+                    "hhmmssff": "00:00:02:07",
+                    "msec": 2300,
+                    "sec": 2.3
+                },
+                "end": {
+                    "hhmmssddd": "00:01:33.500",
+                    "hhmmssff": "00:01:33:12",
+                    "msec": 93500,
+                    "sec": 93.5
+                },
+                "value": "man har koll på vad barnet konsumerar också"
+            }
+        },
+        "95.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:35.200",
+                    "hhmmssff": "00:01:35:05",
+                    "msec": 95200,
+                    "sec": 95.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.400",
+                    "hhmmssff": "00:00:03:10",
+                    "msec": 3400,
+                    "sec": 3.4
+                },
+                "end": {
+                    "hhmmssddd": "00:01:38.600",
+                    "hhmmssff": "00:01:38:15",
+                    "msec": 98600,
+                    "sec": 98.6
+                },
+                "value": "i och med att det finns så himla mycket osäkert och så"
+            }
+        },
+        "100.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:40.700",
+                    "hhmmssff": "00:01:40:17",
+                    "msec": 100700,
+                    "sec": 100.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.600",
+                    "hhmmssff": "00:00:00:15",
+                    "msec": 600,
+                    "sec": 0.6
+                },
+                "end": {
+                    "hhmmssddd": "00:01:41.300",
+                    "hhmmssff": "00:01:41:07",
+                    "msec": 101300,
+                    "sec": 101.3
+                },
+                "value": "ehm"
+            }
+        },
+        "103.8": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:01:43.800",
+                    "hhmmssff": "00:01:43:20",
+                    "msec": 103800,
+                    "sec": 103.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.200",
+                    "hhmmssff": "00:00:02:05",
+                    "msec": 2200,
+                    "sec": 2.2
+                },
+                "end": {
+                    "hhmmssddd": "00:01:46.000",
+                    "hhmmssff": "00:01:46:00",
+                    "msec": 106000,
+                    "sec": 106.0
+                },
+                "value": "ja men absolut det ehm"
+            }
+        },
+        "107.3": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:01:47.300",
+                    "hhmmssff": "00:01:47:07",
+                    "msec": 107300,
+                    "sec": 107.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:01:47.800",
+                    "hhmmssff": "00:01:47:20",
+                    "msec": 107800,
+                    "sec": 107.8
+                },
+                "value": "jag"
+            }
+        },
+        "108.4": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:01:48.400",
+                    "hhmmssff": "00:01:48:10",
+                    "msec": 108400,
+                    "sec": 108.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:08.200",
+                    "hhmmssff": "00:00:08:05",
+                    "msec": 8200,
+                    "sec": 8.2
+                },
+                "end": {
+                    "hhmmssddd": "00:01:56.600",
+                    "hhmmssff": "00:01:56:15",
+                    "msec": 116600,
+                    "sec": 116.6
+                },
+                "value": "jag tycker inte jag tycker varken att det verkar som en dålig idé att föräldrar kan spåra barn och och egentligen såhär ja du har helt rätt i att"
+            }
+        },
+        "117.3": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:01:57.300",
+                    "hhmmssff": "00:01:57:07",
+                    "msec": 117300,
+                    "sec": 117.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:09.600",
+                    "hhmmssff": "00:00:09:15",
+                    "msec": 9600,
+                    "sec": 9.6
+                },
+                "end": {
+                    "hhmmssddd": "00:02:06.900",
+                    "hhmmssff": "00:02:06:22",
+                    "msec": 126900,
+                    "sec": 126.9
+                },
+                "value": "det bara såhär varför ska barnen spåra föräldrarna men det kanske det kanske är skönt precis som du sade det är skönt att veta vart folk är så att eh det kanske ett barn också skulle kunna tycka"
+            }
+        },
+        "119.6": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:01:59.600",
+                    "hhmmssff": "00:01:59:15",
+                    "msec": 119600,
+                    "sec": 119.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:02:00.000",
+                    "hhmmssff": "00:02:00:00",
+                    "msec": 120000,
+                    "sec": 120.0
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:59.600",
+                    "hhmmssff": "00:01:59:15",
+                    "msec": 119600,
+                    "sec": 119.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:02:00.000",
+                    "hhmmssff": "00:02:00:00",
+                    "msec": 120000,
+                    "sec": 120.0
+                },
+                "value": "ja"
+            }
+        },
+        "122.1": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:02:02.100",
+                    "hhmmssff": "00:02:02:02",
+                    "msec": 122100,
+                    "sec": 122.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:02:02.600",
+                    "hhmmssff": "00:02:02:15",
+                    "msec": 122600,
+                    "sec": 122.6
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:02.100",
+                    "hhmmssff": "00:02:02:02",
+                    "msec": 122100,
+                    "sec": 122.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:02:02.600",
+                    "hhmmssff": "00:02:02:15",
+                    "msec": 122600,
+                    "sec": 122.6
+                },
+                "value": "ja"
+            }
+        },
+        "124.0": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:02:04.000",
+                    "hhmmssff": "00:02:04:00",
+                    "msec": 124000,
+                    "sec": 124.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:02:04.500",
+                    "hhmmssff": "00:02:04:12",
+                    "msec": 124500,
+                    "sec": 124.5
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:04.000",
+                    "hhmmssff": "00:02:04:00",
+                    "msec": 124000,
+                    "sec": 124.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:02:04.500",
+                    "hhmmssff": "00:02:04:12",
+                    "msec": 124500,
+                    "sec": 124.5
+                },
+                "value": "ja"
+            }
+        },
+        "126.4": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:02:06.400",
+                    "hhmmssff": "00:02:06:10",
+                    "msec": 126400,
+                    "sec": 126.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.900",
+                    "hhmmssff": "00:00:00:22",
+                    "msec": 900,
+                    "sec": 0.9
+                },
+                "end": {
+                    "hhmmssddd": "00:02:07.300",
+                    "hhmmssff": "00:02:07:07",
+                    "msec": 127300,
+                    "sec": 127.3
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:06.400",
+                    "hhmmssff": "00:02:06:10",
+                    "msec": 126400,
+                    "sec": 126.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.900",
+                    "hhmmssff": "00:00:00:22",
+                    "msec": 900,
+                    "sec": 0.9
+                },
+                "end": {
+                    "hhmmssddd": "00:02:07.300",
+                    "hhmmssff": "00:02:07:07",
+                    "msec": 127300,
+                    "sec": 127.3
+                },
+                "value": "ja men exakt"
+            }
+        },
+        "127.7": {
+            "confidence_production": {
+                "begin": {
+                    "hhmmssddd": "00:02:07.700",
+                    "hhmmssff": "00:02:07:17",
+                    "msec": 127700,
+                    "sec": 127.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:50.100",
+                    "hhmmssff": "00:00:50:02",
+                    "msec": 50100,
+                    "sec": 50.1
+                },
+                "end": {
+                    "hhmmssddd": "00:02:57.800",
+                    "hhmmssff": "00:02:57:20",
+                    "msec": 177800,
+                    "sec": 177.8
+                },
+                "value": "3"
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:07.700",
+                    "hhmmssff": "00:02:07:17",
+                    "msec": 127700,
+                    "sec": 127.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:12.100",
+                    "hhmmssff": "00:00:12:02",
+                    "msec": 12100,
+                    "sec": 12.1
+                },
+                "end": {
+                    "hhmmssddd": "00:02:19.800",
+                    "hhmmssff": "00:02:19:20",
+                    "msec": 139800,
+                    "sec": 139.8
+                },
+                "value": "men det är det och det där menar jag det här just att jag tycker att det det det här liksom hitta min iphone grejen det har jag liksom inte någonting emot och och det det tycker jag att där precis som du säger det kan väl barn också få se vart sina föräldrar är det kan ju vara skönt att veta när de kommer hem och så"
+            },
+            "production_annotation": {
+                "begin": {
+                    "hhmmssddd": "00:02:07.700",
+                    "hhmmssff": "00:02:07:17",
+                    "msec": 127700,
+                    "sec": 127.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:50.100",
+                    "hhmmssff": "00:00:50:02",
+                    "msec": 50100,
+                    "sec": 50.1
+                },
+                "end": {
+                    "hhmmssddd": "00:02:57.800",
+                    "hhmmssff": "00:02:57:20",
+                    "msec": 177800,
+                    "sec": 177.8
+                },
+                "value": "4"
+            }
+        },
+        "140.1": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:20.100",
+                    "hhmmssff": "00:02:20:02",
+                    "msec": 140100,
+                    "sec": 140.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.400",
+                    "hhmmssff": "00:00:03:10",
+                    "msec": 3400,
+                    "sec": 3.4
+                },
+                "end": {
+                    "hhmmssddd": "00:02:23.500",
+                    "hhmmssff": "00:02:23:12",
+                    "msec": 143500,
+                    "sec": 143.5
+                },
+                "value": "men jag menar just alltså det här om det om det är liksom såhär spåra vad"
+            }
+        },
+        "143.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:23.700",
+                    "hhmmssff": "00:02:23:17",
+                    "msec": 143700,
+                    "sec": 143.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.500",
+                    "hhmmssff": "00:00:03:12",
+                    "msec": 3500,
+                    "sec": 3.5
+                },
+                "end": {
+                    "hhmmssddd": "00:02:27.200",
+                    "hhmmssff": "00:02:27:05",
+                    "msec": 147200,
+                    "sec": 147.2
+                },
+                "value": "vad barn och föräldrar gör på mobilen? eller spåra vad barn och föräldrar gör"
+            }
+        },
+        "148.3": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:28.300",
+                    "hhmmssff": "00:02:28:07",
+                    "msec": 148300,
+                    "sec": 148.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.600",
+                    "hhmmssff": "00:00:02:15",
+                    "msec": 2600,
+                    "sec": 2.6
+                },
+                "end": {
+                    "hhmmssddd": "00:02:30.900",
+                    "hhmmssff": "00:02:30:22",
+                    "msec": 150900,
+                    "sec": 150.9
+                },
+                "value": "alltså generellt alltså det eller du vet på mobilen liksom"
+            }
+        },
+        "151.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:31.400",
+                    "hhmmssff": "00:02:31:10",
+                    "msec": 151400,
+                    "sec": 151.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.000",
+                    "hhmmssff": "00:00:03:00",
+                    "msec": 3000,
+                    "sec": 3.0
+                },
+                "end": {
+                    "hhmmssddd": "00:02:34.400",
+                    "hhmmssff": "00:02:34:10",
+                    "msec": 154400,
+                    "sec": 154.4
+                },
+                "value": "smsar eller tittar på appar eller du vet så där tänker jag att"
+            }
+        },
+        "154.9": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:34.900",
+                    "hhmmssff": "00:02:34:22",
+                    "msec": 154900,
+                    "sec": 154.9
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.900",
+                    "hhmmssff": "00:00:01:22",
+                    "msec": 1900,
+                    "sec": 1.9
+                },
+                "end": {
+                    "hhmmssddd": "00:02:36.800",
+                    "hhmmssff": "00:02:36:20",
+                    "msec": 156800,
+                    "sec": 156.8
+                },
+                "value": "där tänker jag inte att barn ska ha koll"
+            }
+        },
+        "157.8": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:37.800",
+                    "hhmmssff": "00:02:37:20",
+                    "msec": 157800,
+                    "sec": 157.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.900",
+                    "hhmmssff": "00:00:03:22",
+                    "msec": 3900,
+                    "sec": 3.9
+                },
+                "end": {
+                    "hhmmssddd": "00:02:41.700",
+                    "hhmmssff": "00:02:41:17",
+                    "msec": 161700,
+                    "sec": 161.7
+                },
+                "value": "på föräldrar alltså det det är liksom beror på var de vad som spåras är det liksom bara"
+            }
+        },
+        "162.0": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:42.000",
+                    "hhmmssff": "00:02:42:00",
+                    "msec": 162000,
+                    "sec": 162.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.900",
+                    "hhmmssff": "00:00:04:22",
+                    "msec": 4900,
+                    "sec": 4.9
+                },
+                "end": {
+                    "hhmmssddd": "00:02:46.900",
+                    "hhmmssff": "00:02:46:22",
+                    "msec": 166900,
+                    "sec": 166.9
+                },
+                "value": "fysisk plats? eller vad är det spårar vad som händer på mobilen? det tänker jag ju blir olika då"
+            }
+        },
+        "170.8": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:50.800",
+                    "hhmmssff": "00:02:50:20",
+                    "msec": 170800,
+                    "sec": 170.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.200",
+                    "hhmmssff": "00:00:00:05",
+                    "msec": 200,
+                    "sec": 0.2
+                },
+                "end": {
+                    "hhmmssddd": "00:02:51.000",
+                    "hhmmssff": "00:02:51:00",
+                    "msec": 171000,
+                    "sec": 171.0
+                },
+                "value": "att"
+            }
+        },
+        "171.3": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:51.300",
+                    "hhmmssff": "00:02:51:07",
+                    "msec": 171300,
+                    "sec": 171.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.300",
+                    "hhmmssff": "00:00:00:07",
+                    "msec": 300,
+                    "sec": 0.3
+                },
+                "end": {
+                    "hhmmssddd": "00:02:51.600",
+                    "hhmmssff": "00:02:51:15",
+                    "msec": 171600,
+                    "sec": 171.6
+                },
+                "value": "att"
+            }
+        },
+        "172.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:52.200",
+                    "hhmmssff": "00:02:52:05",
+                    "msec": 172200,
+                    "sec": 172.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.800",
+                    "hhmmssff": "00:00:00:20",
+                    "msec": 800,
+                    "sec": 0.8
+                },
+                "end": {
+                    "hhmmssddd": "00:02:53.000",
+                    "hhmmssff": "00:02:53:00",
+                    "msec": 173000,
+                    "sec": 173.0
+                },
+                "value": "spåra"
+            }
+        },
+        "173.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:02:53.200",
+                    "hhmmssff": "00:02:53:05",
+                    "msec": 173200,
+                    "sec": 173.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.600",
+                    "hhmmssff": "00:00:04:15",
+                    "msec": 4600,
+                    "sec": 4.6
+                },
+                "end": {
+                    "hhmmssddd": "00:02:57.800",
+                    "hhmmssff": "00:02:57:20",
+                    "msec": 177800,
+                    "sec": 177.8
+                },
+                "value": "vad ska jag få mobilen tänker jag det är ju ändå en ganska annorlunda en väldigt annorlunda sak liksom"
+            }
+        },
+        "178.4": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:02:58.400",
+                    "hhmmssff": "00:02:58:10",
+                    "msec": 178400,
+                    "sec": 178.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.900",
+                    "hhmmssff": "00:00:00:22",
+                    "msec": 900,
+                    "sec": 0.9
+                },
+                "end": {
+                    "hhmmssddd": "00:02:59.300",
+                    "hhmmssff": "00:02:59:07",
+                    "msec": 179300,
+                    "sec": 179.3
+                },
+                "value": "just det ja"
+            }
+        },
+        "179.6": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:02:59.600",
+                    "hhmmssff": "00:02:59:15",
+                    "msec": 179600,
+                    "sec": 179.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:08.500",
+                    "hhmmssff": "00:00:08:12",
+                    "msec": 8500,
+                    "sec": 8.5
+                },
+                "end": {
+                    "hhmmssddd": "00:03:08.100",
+                    "hhmmssff": "00:03:08:02",
+                    "msec": 188100,
+                    "sec": 188.1
+                },
+                "value": "ja precis ja det kanske man inte vill att ens barn ska liksom ha koll på på något sätt"
+            }
+        },
+        "185.5": {
+            "confidence_production": {
+                "begin": {
+                    "hhmmssddd": "00:03:05.500",
+                    "hhmmssff": "00:03:05:12",
+                    "msec": 185500,
+                    "sec": 185.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:01:32.400",
+                    "hhmmssff": "00:01:32:10",
+                    "msec": 92400,
+                    "sec": 92.4
+                },
+                "end": {
+                    "hhmmssddd": "00:04:37.900",
+                    "hhmmssff": "00:04:37:22",
+                    "msec": 277900,
+                    "sec": 277.9
+                },
+                "value": "2"
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:03:05.500",
+                    "hhmmssff": "00:03:05:12",
+                    "msec": 185500,
+                    "sec": 185.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.700",
+                    "hhmmssff": "00:00:00:17",
+                    "msec": 700,
+                    "sec": 0.7
+                },
+                "end": {
+                    "hhmmssddd": "00:03:06.200",
+                    "hhmmssff": "00:03:06:05",
+                    "msec": 186200,
+                    "sec": 186.2
+                },
+                "value": "nej"
+            },
+            "production_annotation": {
+                "begin": {
+                    "hhmmssddd": "00:03:05.500",
+                    "hhmmssff": "00:03:05:12",
+                    "msec": 185500,
+                    "sec": 185.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:01:32.400",
+                    "hhmmssff": "00:01:32:10",
+                    "msec": 92400,
+                    "sec": 92.4
+                },
+                "end": {
+                    "hhmmssddd": "00:04:37.900",
+                    "hhmmssff": "00:04:37:22",
+                    "msec": 277900,
+                    "sec": 277.9
+                },
+                "value": "5"
+            }
+        },
+        "186.9": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:03:06.900",
+                    "hhmmssff": "00:03:06:22",
+                    "msec": 186900,
+                    "sec": 186.9
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.800",
+                    "hhmmssff": "00:00:00:20",
+                    "msec": 800,
+                    "sec": 0.8
+                },
+                "end": {
+                    "hhmmssddd": "00:03:07.700",
+                    "hhmmssff": "00:03:07:17",
+                    "msec": 187700,
+                    "sec": 187.7
+                },
+                "value": "exakt"
+            }
+        },
+        "188.8": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:03:08.800",
+                    "hhmmssff": "00:03:08:20",
+                    "msec": 188800,
+                    "sec": 188.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.100",
+                    "hhmmssff": "00:00:02:02",
+                    "msec": 2100,
+                    "sec": 2.1
+                },
+                "end": {
+                    "hhmmssddd": "00:03:10.900",
+                    "hhmmssff": "00:03:10:22",
+                    "msec": 190900,
+                    "sec": 190.9
+                },
+                "value": "ja men också därför det blir ju verkligen en såddan där"
+            }
+        },
+        "191.1": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:03:11.100",
+                    "hhmmssff": "00:03:11:02",
+                    "msec": 191100,
+                    "sec": 191.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.600",
+                    "hhmmssff": "00:00:00:15",
+                    "msec": 600,
+                    "sec": 0.6
+                },
+                "end": {
+                    "hhmmssddd": "00:03:11.700",
+                    "hhmmssff": "00:03:11:17",
+                    "msec": 191700,
+                    "sec": 191.7
+                },
+                "value": "grej"
+            }
+        },
+        "192.3": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:03:12.300",
+                    "hhmmssff": "00:03:12:07",
+                    "msec": 192300,
+                    "sec": 192.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:06.900",
+                    "hhmmssff": "00:00:06:22",
+                    "msec": 6900,
+                    "sec": 6.9
+                },
+                "end": {
+                    "hhmmssddd": "00:03:19.200",
+                    "hhmmssff": "00:03:19:05",
+                    "msec": 199200,
+                    "sec": 199.2
+                },
+                "value": "att det kanske alltså men men också alltså men också för barn för jag tänker att det verkligen är en poäng i att man ändå spårar vad barn gör på mobilen"
+            }
+        },
+        "199.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:03:19.600",
+                    "hhmmssff": "00:03:19:15",
+                    "msec": 199600,
+                    "sec": 199.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:07.100",
+                    "hhmmssff": "00:00:07:02",
+                    "msec": 7100,
+                    "sec": 7.1
+                },
+                "end": {
+                    "hhmmssddd": "00:03:26.700",
+                    "hhmmssff": "00:03:26:17",
+                    "msec": 206700,
+                    "sec": 206.7
+                },
+                "value": "just som sagt sociala medier och särskilt små barn kanske inte har det bästa konsekvenstänket och de inte alltså så det finns ju jättemycket"
+            }
+        },
+        "207.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:03:27.600",
+                    "hhmmssff": "00:03:27:15",
+                    "msec": 207600,
+                    "sec": 207.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:05.400",
+                    "hhmmssff": "00:00:05:10",
+                    "msec": 5400,
+                    "sec": 5.4
+                },
+                "end": {
+                    "hhmmssddd": "00:03:33.000",
+                    "hhmmssff": "00:03:33:00",
+                    "msec": 213000,
+                    "sec": 213.0
+                },
+                "value": "som folk inte ska se alltså jag såg en himla video på instagram där det var en man som liksom alltså det var såhär"
+            }
+        },
+        "213.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:03:33.400",
+                    "hhmmssff": "00:03:33:10",
+                    "msec": 213400,
+                    "sec": 213.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:08.700",
+                    "hhmmssff": "00:00:08:17",
+                    "msec": 8700,
+                    "sec": 8.7
+                },
+                "end": {
+                    "hhmmssddd": "00:03:42.100",
+                    "hhmmssff": "00:03:42:02",
+                    "msec": 222100,
+                    "sec": 222.1
+                },
+                "value": "alltså en man som blev skjuten och man såg det ganska nära och det var det här alltså du vet i Gaza och den här personen som hade postat gjorde det ju verkligen utifrån kolla vad hemskt att det här pågår"
+            }
+        },
+        "222.3": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:03:42.300",
+                    "hhmmssff": "00:03:42:07",
+                    "msec": 222300,
+                    "sec": 222.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:06.900",
+                    "hhmmssff": "00:00:06:22",
+                    "msec": 6900,
+                    "sec": 6.9
+                },
+                "end": {
+                    "hhmmssddd": "00:03:49.200",
+                    "hhmmssff": "00:03:49:05",
+                    "msec": 229200,
+                    "sec": 229.2
+                },
+                "value": "men jag tycker ändå att det var så alltså ganska sjukt på något sätt att posta alltså såhär det är ju helt det är så himla onaturligt att se en person bli mördad"
+            }
+        },
+        "229.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:03:49.600",
+                    "hhmmssff": "00:03:49:15",
+                    "msec": 229600,
+                    "sec": 229.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.200",
+                    "hhmmssff": "00:00:04:05",
+                    "msec": 4200,
+                    "sec": 4.2
+                },
+                "end": {
+                    "hhmmssddd": "00:03:53.800",
+                    "hhmmssff": "00:03:53:20",
+                    "msec": 233800,
+                    "sec": 233.8
+                },
+                "value": "och jag blev liksom illa berörd och då tänker jag om barn ser det det är ju det är ju verkligen"
+            }
+        },
+        "234.3": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:03:54.300",
+                    "hhmmssff": "00:03:54:07",
+                    "msec": 234300,
+                    "sec": 234.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.900",
+                    "hhmmssff": "00:00:04:22",
+                    "msec": 4900,
+                    "sec": 4.9
+                },
+                "end": {
+                    "hhmmssddd": "00:03:59.200",
+                    "hhmmssff": "00:03:59:05",
+                    "msec": 239200,
+                    "sec": 239.2
+                },
+                "value": "det kan ju vara jätte konstigt och förstå alltså om man inte riktigt förstår och och så liksom"
+            }
+        },
+        "240.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:00.200",
+                    "hhmmssff": "00:04:00:05",
+                    "msec": 240200,
+                    "sec": 240.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.000",
+                    "hhmmssff": "00:00:04:00",
+                    "msec": 4000,
+                    "sec": 4.0
+                },
+                "end": {
+                    "hhmmssddd": "00:04:04.200",
+                    "hhmmssff": "00:04:04:05",
+                    "msec": 244200,
+                    "sec": 244.2
+                },
+                "value": "och där tänker jag att det verkligen finns någon poäng i att föräldrar har koll men också typ"
+            }
+        },
+        "244.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:04.700",
+                    "hhmmssff": "00:04:04:17",
+                    "msec": 244700,
+                    "sec": 244.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:05.900",
+                    "hhmmssff": "00:00:05:22",
+                    "msec": 5900,
+                    "sec": 5.9
+                },
+                "end": {
+                    "hhmmssddd": "00:04:10.600",
+                    "hhmmssff": "00:04:10:15",
+                    "msec": 250600,
+                    "sec": 250.6
+                },
+                "value": "att det finns så många människor som kan grooma barn och så vidare och så vidare såhär alltså det det det finns ju verkligen mycket så"
+            }
+        },
+        "251.1": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:11.100",
+                    "hhmmssff": "00:04:11:02",
+                    "msec": 251100,
+                    "sec": 251.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.700",
+                    "hhmmssff": "00:00:00:17",
+                    "msec": 700,
+                    "sec": 0.7
+                },
+                "end": {
+                    "hhmmssddd": "00:04:11.800",
+                    "hhmmssff": "00:04:11:20",
+                    "msec": 251800,
+                    "sec": 251.8
+                },
+                "value": "men att"
+            }
+        },
+        "252.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:12.200",
+                    "hhmmssff": "00:04:12:05",
+                    "msec": 252200,
+                    "sec": 252.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:04:12.600",
+                    "hhmmssff": "00:04:12:15",
+                    "msec": 252600,
+                    "sec": 252.6
+                },
+                "value": "den"
+            }
+        },
+        "252.9": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:12.900",
+                    "hhmmssff": "00:04:12:22",
+                    "msec": 252900,
+                    "sec": 252.9
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:07.500",
+                    "hhmmssff": "00:00:07:12",
+                    "msec": 7500,
+                    "sec": 7.5
+                },
+                "end": {
+                    "hhmmssddd": "00:04:20.400",
+                    "hhmmssff": "00:04:20:10",
+                    "msec": 260400,
+                    "sec": 260.4
+                },
+                "value": "det blir ju också lite som att läsa ett barns dagbok alltså ett barn ska ju verkligen också ha privat alltså få ha ett privatliv och välja själv vad"
+            }
+        },
+        "260.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:20.700",
+                    "hhmmssff": "00:04:20:17",
+                    "msec": 260700,
+                    "sec": 260.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:05.400",
+                    "hhmmssff": "00:00:05:10",
+                    "msec": 5400,
+                    "sec": 5.4
+                },
+                "end": {
+                    "hhmmssddd": "00:04:26.100",
+                    "hhmmssff": "00:04:26:02",
+                    "msec": 266100,
+                    "sec": 266.1
+                },
+                "value": "vad du vill att ens föräldrar ska ta del av alltså det finns ju det är ju jätteviktigt att barnet har en egen utveckling också"
+            }
+        },
+        "266.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:26.700",
+                    "hhmmssff": "00:04:26:17",
+                    "msec": 266700,
+                    "sec": 266.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:04:27.100",
+                    "hhmmssff": "00:04:27:02",
+                    "msec": 267100,
+                    "sec": 267.1
+                },
+                "value": "ehm"
+            }
+        },
+        "267.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:27.400",
+                    "hhmmssff": "00:04:27:10",
+                    "msec": 267400,
+                    "sec": 267.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.000",
+                    "hhmmssff": "00:00:01:00",
+                    "msec": 1000,
+                    "sec": 1.0
+                },
+                "end": {
+                    "hhmmssddd": "00:04:28.400",
+                    "hhmmssff": "00:04:28:10",
+                    "msec": 268400,
+                    "sec": 268.4
+                },
+                "value": "där den får vara"
+            }
+        },
+        "270.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:30.400",
+                    "hhmmssff": "00:04:30:10",
+                    "msec": 270400,
+                    "sec": 270.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:05.000",
+                    "hhmmssff": "00:00:05:00",
+                    "msec": 5000,
+                    "sec": 5.0
+                },
+                "end": {
+                    "hhmmssddd": "00:04:35.400",
+                    "hhmmssff": "00:04:35:10",
+                    "msec": 275400,
+                    "sec": 275.4
+                },
+                "value": "får ha sitt egna också sina egna tankar och funderingar och så vänskaper och så liksom"
+            }
+        },
+        "276.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:36.500",
+                    "hhmmssff": "00:04:36:12",
+                    "msec": 276500,
+                    "sec": 276.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.400",
+                    "hhmmssff": "00:00:01:10",
+                    "msec": 1400,
+                    "sec": 1.4
+                },
+                "end": {
+                    "hhmmssddd": "00:04:37.900",
+                    "hhmmssff": "00:04:37:22",
+                    "msec": 277900,
+                    "sec": 277.9
+                },
+                "value": "det ska ändå vara hedligt"
+            }
+        },
+        "276.8": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:04:36.800",
+                    "hhmmssff": "00:04:36:20",
+                    "msec": 276800,
+                    "sec": 276.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.800",
+                    "hhmmssff": "00:00:00:20",
+                    "msec": 800,
+                    "sec": 0.8
+                },
+                "end": {
+                    "hhmmssddd": "00:04:37.600",
+                    "hhmmssff": "00:04:37:15",
+                    "msec": 277600,
+                    "sec": 277.6
+                },
+                "value": "ja jag håller med"
+            }
+        },
+        "279.1": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:04:39.100",
+                    "hhmmssff": "00:04:39:02",
+                    "msec": 279100,
+                    "sec": 279.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:16.200",
+                    "hhmmssff": "00:00:16:05",
+                    "msec": 16200,
+                    "sec": 16.2
+                },
+                "end": {
+                    "hhmmssddd": "00:04:55.300",
+                    "hhmmssff": "00:04:55:07",
+                    "msec": 295300,
+                    "sec": 295.3
+                },
+                "value": "nej men eh det jag tänker jag har inte tänkt på det där med för jag har inga barn själv liksom men eh det är sant alltså man kan ju se jätte hemska grejer på sociala medier sådär alltså våld men också såhär väldigt mycket sex också egentligen"
+            }
+        },
+        "283.0": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:04:43.000",
+                    "hhmmssff": "00:04:43:00",
+                    "msec": 283000,
+                    "sec": 283.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:04:43.400",
+                    "hhmmssff": "00:04:43:10",
+                    "msec": 283400,
+                    "sec": 283.4
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:43.000",
+                    "hhmmssff": "00:04:43:00",
+                    "msec": 283000,
+                    "sec": 283.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:04:43.400",
+                    "hhmmssff": "00:04:43:10",
+                    "msec": 283400,
+                    "sec": 283.4
+                },
+                "value": "nej"
+            }
+        },
+        "287.1": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:04:47.100",
+                    "hhmmssff": "00:04:47:02",
+                    "msec": 287100,
+                    "sec": 287.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:04:47.600",
+                    "hhmmssff": "00:04:47:15",
+                    "msec": 287600,
+                    "sec": 287.6
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:47.100",
+                    "hhmmssff": "00:04:47:02",
+                    "msec": 287100,
+                    "sec": 287.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:04:47.600",
+                    "hhmmssff": "00:04:47:15",
+                    "msec": 287600,
+                    "sec": 287.6
+                },
+                "value": "ehm"
+            }
+        },
+        "293.3": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:04:53.300",
+                    "hhmmssff": "00:04:53:07",
+                    "msec": 293300,
+                    "sec": 293.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.800",
+                    "hhmmssff": "00:00:00:20",
+                    "msec": 800,
+                    "sec": 0.8
+                },
+                "end": {
+                    "hhmmssddd": "00:04:54.100",
+                    "hhmmssff": "00:04:54:02",
+                    "msec": 294100,
+                    "sec": 294.1
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:53.300",
+                    "hhmmssff": "00:04:53:07",
+                    "msec": 293300,
+                    "sec": 293.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.800",
+                    "hhmmssff": "00:00:00:20",
+                    "msec": 800,
+                    "sec": 0.8
+                },
+                "end": {
+                    "hhmmssddd": "00:04:54.100",
+                    "hhmmssff": "00:04:54:02",
+                    "msec": 294100,
+                    "sec": 294.1
+                },
+                "value": "ja men exakt"
+            }
+        },
+        "294.3": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:04:54.300",
+                    "hhmmssff": "00:04:54:07",
+                    "msec": 294300,
+                    "sec": 294.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.700",
+                    "hhmmssff": "00:00:00:17",
+                    "msec": 700,
+                    "sec": 0.7
+                },
+                "end": {
+                    "hhmmssddd": "00:04:55.000",
+                    "hhmmssff": "00:04:55:00",
+                    "msec": 295000,
+                    "sec": 295.0
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:54.300",
+                    "hhmmssff": "00:04:54:07",
+                    "msec": 294300,
+                    "sec": 294.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.700",
+                    "hhmmssff": "00:00:00:17",
+                    "msec": 700,
+                    "sec": 0.7
+                },
+                "end": {
+                    "hhmmssddd": "00:04:55.000",
+                    "hhmmssff": "00:04:55:00",
+                    "msec": 295000,
+                    "sec": 295.0
+                },
+                "value": "verkligen"
+            }
+        },
+        "295.7": {
+            "confidence_production": {
+                "begin": {
+                    "hhmmssddd": "00:04:55.700",
+                    "hhmmssff": "00:04:55:17",
+                    "msec": 295700,
+                    "sec": 295.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:13.300",
+                    "hhmmssff": "00:00:13:07",
+                    "msec": 13300,
+                    "sec": 13.3
+                },
+                "end": {
+                    "hhmmssddd": "00:05:09.000",
+                    "hhmmssff": "00:05:09:00",
+                    "msec": 309000,
+                    "sec": 309.0
+                },
+                "value": "2"
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:55.700",
+                    "hhmmssff": "00:04:55:17",
+                    "msec": 295700,
+                    "sec": 295.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.700",
+                    "hhmmssff": "00:00:00:17",
+                    "msec": 700,
+                    "sec": 0.7
+                },
+                "end": {
+                    "hhmmssddd": "00:04:56.400",
+                    "hhmmssff": "00:04:56:10",
+                    "msec": 296400,
+                    "sec": 296.4
+                },
+                "value": "ja jag har"
+            },
+            "production_annotation": {
+                "begin": {
+                    "hhmmssddd": "00:04:55.700",
+                    "hhmmssff": "00:04:55:17",
+                    "msec": 295700,
+                    "sec": 295.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:13.300",
+                    "hhmmssff": "00:00:13:07",
+                    "msec": 13300,
+                    "sec": 13.3
+                },
+                "end": {
+                    "hhmmssddd": "00:05:09.000",
+                    "hhmmssff": "00:05:09:00",
+                    "msec": 309000,
+                    "sec": 309.0
+                },
+                "value": "3"
+            }
+        },
+        "296.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:56.600",
+                    "hhmmssff": "00:04:56:15",
+                    "msec": 296600,
+                    "sec": 296.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:04:57.100",
+                    "hhmmssff": "00:04:57:02",
+                    "msec": 297100,
+                    "sec": 297.1
+                },
+                "value": "jag har ju"
+            }
+        },
+        "297.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:57.700",
+                    "hhmmssff": "00:04:57:17",
+                    "msec": 297700,
+                    "sec": 297.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:05.200",
+                    "hhmmssff": "00:00:05:05",
+                    "msec": 5200,
+                    "sec": 5.2
+                },
+                "end": {
+                    "hhmmssddd": "00:05:02.900",
+                    "hhmmssff": "00:05:02:22",
+                    "msec": 302900,
+                    "sec": 302.9
+                },
+                "value": "jobbar en del med med barn och jag eller jag pluggar till psykolog och där jobbar jag nu på BUP och sådant så"
+            }
+        },
+        "303.3": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:03.300",
+                    "hhmmssff": "00:05:03:07",
+                    "msec": 303300,
+                    "sec": 303.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.900",
+                    "hhmmssff": "00:00:00:22",
+                    "msec": 900,
+                    "sec": 0.9
+                },
+                "end": {
+                    "hhmmssddd": "00:05:04.200",
+                    "hhmmssff": "00:05:04:05",
+                    "msec": 304200,
+                    "sec": 304.2
+                },
+                "value": "och där tycker jag att det är"
+            }
+        },
+        "303.6": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:05:03.600",
+                    "hhmmssff": "00:05:03:15",
+                    "msec": 303600,
+                    "sec": 303.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.000",
+                    "hhmmssff": "00:00:02:00",
+                    "msec": 2000,
+                    "sec": 2.0
+                },
+                "end": {
+                    "hhmmssddd": "00:05:05.600",
+                    "hhmmssff": "00:05:05:15",
+                    "msec": 305600,
+                    "sec": 305.6
+                },
+                "value": "vad jobbar du med? förlåt?"
+            }
+        },
+        "304.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:04.400",
+                    "hhmmssff": "00:05:04:10",
+                    "msec": 304400,
+                    "sec": 304.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.200",
+                    "hhmmssff": "00:00:03:05",
+                    "msec": 3200,
+                    "sec": 3.2
+                },
+                "end": {
+                    "hhmmssddd": "00:05:07.600",
+                    "hhmmssff": "00:05:07:15",
+                    "msec": 307600,
+                    "sec": 307.6
+                },
+                "value": "ehm eh på BUP på barn alltså på barn och ungdoms psykiatrin"
+            }
+        },
+        "308.0": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:05:08.000",
+                    "hhmmssff": "00:05:08:00",
+                    "msec": 308000,
+                    "sec": 308.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.100",
+                    "hhmmssff": "00:00:01:02",
+                    "msec": 1100,
+                    "sec": 1.1
+                },
+                "end": {
+                    "hhmmssddd": "00:05:09.100",
+                    "hhmmssff": "00:05:09:02",
+                    "msec": 309100,
+                    "sec": 309.1
+                },
+                "value": "ja okej"
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:08.000",
+                    "hhmmssff": "00:05:08:00",
+                    "msec": 308000,
+                    "sec": 308.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.000",
+                    "hhmmssff": "00:00:01:00",
+                    "msec": 1000,
+                    "sec": 1.0
+                },
+                "end": {
+                    "hhmmssddd": "00:05:09.000",
+                    "hhmmssff": "00:05:09:00",
+                    "msec": 309000,
+                    "sec": 309.0
+                },
+                "value": "eh jobbar jag nu"
+            }
+        },
+        "309.4": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:05:09.400",
+                    "hhmmssff": "00:05:09:10",
+                    "msec": 309400,
+                    "sec": 309.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.600",
+                    "hhmmssff": "00:00:00:15",
+                    "msec": 600,
+                    "sec": 0.6
+                },
+                "end": {
+                    "hhmmssddd": "00:05:10.000",
+                    "hhmmssff": "00:05:10:00",
+                    "msec": 310000,
+                    "sec": 310.0
+                },
+                "value": "mhm"
+            }
+        },
+        "310.1": {
+            "confidence_production": {
+                "begin": {
+                    "hhmmssddd": "00:05:10.100",
+                    "hhmmssff": "00:05:10:02",
+                    "msec": 310100,
+                    "sec": 310.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:34.100",
+                    "hhmmssff": "00:00:34:02",
+                    "msec": 34100,
+                    "sec": 34.1
+                },
+                "end": {
+                    "hhmmssddd": "00:05:44.200",
+                    "hhmmssff": "00:05:44:05",
+                    "msec": 344200,
+                    "sec": 344.2
+                },
+                "value": "3"
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:10.100",
+                    "hhmmssff": "00:05:10:02",
+                    "msec": 310100,
+                    "sec": 310.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:05.800",
+                    "hhmmssff": "00:00:05:20",
+                    "msec": 5800,
+                    "sec": 5.8
+                },
+                "end": {
+                    "hhmmssddd": "00:05:15.900",
+                    "hhmmssff": "00:05:15:22",
+                    "msec": 315900,
+                    "sec": 315.9
+                },
+                "value": "och jag tycker det alltså det är verkligen inte ovanligt att man hör av föräldrar eller tonåringarna själva att dem"
+            },
+            "production_annotation": {
+                "begin": {
+                    "hhmmssddd": "00:05:10.100",
+                    "hhmmssff": "00:05:10:02",
+                    "msec": 310100,
+                    "sec": 310.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:34.100",
+                    "hhmmssff": "00:00:34:02",
+                    "msec": 34100,
+                    "sec": 34.1
+                },
+                "end": {
+                    "hhmmssddd": "00:05:44.200",
+                    "hhmmssff": "00:05:44:05",
+                    "msec": 344200,
+                    "sec": 344.2
+                },
+                "value": "4"
+            }
+        },
+        "316.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:16.200",
+                    "hhmmssff": "00:05:16:05",
+                    "msec": 316200,
+                    "sec": 316.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.500",
+                    "hhmmssff": "00:00:01:12",
+                    "msec": 1500,
+                    "sec": 1.5
+                },
+                "end": {
+                    "hhmmssddd": "00:05:17.700",
+                    "hhmmssff": "00:05:17:17",
+                    "msec": 317700,
+                    "sec": 317.7
+                },
+                "value": "har kontakt med"
+            }
+        },
+        "318.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:18.700",
+                    "hhmmssff": "00:05:18:17",
+                    "msec": 318700,
+                    "sec": 318.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:07.000",
+                    "hhmmssff": "00:00:07:00",
+                    "msec": 7000,
+                    "sec": 7.0
+                },
+                "end": {
+                    "hhmmssddd": "00:05:25.700",
+                    "hhmmssff": "00:05:25:17",
+                    "msec": 325700,
+                    "sec": 325.7
+                },
+                "value": "ja men då såhär ja särskilt då då tjejer att de har kontakt med äldre män och att de kanske skickar bilder och att det blir jätte traumatiskt för dem för att det liksom"
+            }
+        },
+        "326.0": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:26.000",
+                    "hhmmssff": "00:05:26:00",
+                    "msec": 326000,
+                    "sec": 326.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.200",
+                    "hhmmssff": "00:00:04:05",
+                    "msec": 4200,
+                    "sec": 4.2
+                },
+                "end": {
+                    "hhmmssddd": "00:05:30.200",
+                    "hhmmssff": "00:05:30:05",
+                    "msec": 330200,
+                    "sec": 330.2
+                },
+                "value": "blir en situation där det hotas att de kommer läckas eller att alltså förstår du? att det är såhär"
+            }
+        },
+        "331.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:31.600",
+                    "hhmmssff": "00:05:31:15",
+                    "msec": 331600,
+                    "sec": 331.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.700",
+                    "hhmmssff": "00:00:03:17",
+                    "msec": 3700,
+                    "sec": 3.7
+                },
+                "end": {
+                    "hhmmssddd": "00:05:35.300",
+                    "hhmmssff": "00:05:35:07",
+                    "msec": 335300,
+                    "sec": 335.3
+                },
+                "value": "och det leder ju till jätte jättestor ångest och oro alltså alltså det det är ju ett"
+            }
+        },
+        "335.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:35.500",
+                    "hhmmssff": "00:05:35:12",
+                    "msec": 335500,
+                    "sec": 335.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.500",
+                    "hhmmssff": "00:00:03:12",
+                    "msec": 3500,
+                    "sec": 3.5
+                },
+                "end": {
+                    "hhmmssddd": "00:05:39.000",
+                    "hhmmssff": "00:05:39:00",
+                    "msec": 339000,
+                    "sec": 339.0
+                },
+                "value": "riktigt problem som också leder till att barn och unga mår dåligt"
+            }
+        },
+        "339.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:39.600",
+                    "hhmmssff": "00:05:39:15",
+                    "msec": 339600,
+                    "sec": 339.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.600",
+                    "hhmmssff": "00:00:00:15",
+                    "msec": 600,
+                    "sec": 0.6
+                },
+                "end": {
+                    "hhmmssddd": "00:05:40.200",
+                    "hhmmssff": "00:05:40:05",
+                    "msec": 340200,
+                    "sec": 340.2
+                },
+                "value": "ehm"
+            }
+        },
+        "341.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:41.700",
+                    "hhmmssff": "00:05:41:17",
+                    "msec": 341700,
+                    "sec": 341.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.500",
+                    "hhmmssff": "00:00:02:12",
+                    "msec": 2500,
+                    "sec": 2.5
+                },
+                "end": {
+                    "hhmmssddd": "00:05:44.200",
+                    "hhmmssff": "00:05:44:05",
+                    "msec": 344200,
+                    "sec": 344.2
+                },
+                "value": "för att de kanske inte heller som sagt förstår lite så"
+            }
+        },
+        "342.1": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:05:42.100",
+                    "hhmmssff": "00:05:42:02",
+                    "msec": 342100,
+                    "sec": 342.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:05:42.600",
+                    "hhmmssff": "00:05:42:15",
+                    "msec": 342600,
+                    "sec": 342.6
+                },
+                "value": "usch"
+            }
+        },
+        "345.0": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:05:45.000",
+                    "hhmmssff": "00:05:45:00",
+                    "msec": 345000,
+                    "sec": 345.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.200",
+                    "hhmmssff": "00:00:04:05",
+                    "msec": 4200,
+                    "sec": 4.2
+                },
+                "end": {
+                    "hhmmssddd": "00:05:49.200",
+                    "hhmmssff": "00:05:49:05",
+                    "msec": 349200,
+                    "sec": 349.2
+                },
+                "value": "ja men man vet ju själv hur man själv skulle må alltså det hade ju varit fruktansvärt"
+            }
+        },
+        "345.1": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:05:45.100",
+                    "hhmmssff": "00:05:45:02",
+                    "msec": 345100,
+                    "sec": 345.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.800",
+                    "hhmmssff": "00:00:00:20",
+                    "msec": 800,
+                    "sec": 0.8
+                },
+                "end": {
+                    "hhmmssddd": "00:05:45.900",
+                    "hhmmssff": "00:05:45:22",
+                    "msec": 345900,
+                    "sec": 345.9
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:45.100",
+                    "hhmmssff": "00:05:45:02",
+                    "msec": 345100,
+                    "sec": 345.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.800",
+                    "hhmmssff": "00:00:00:20",
+                    "msec": 800,
+                    "sec": 0.8
+                },
+                "end": {
+                    "hhmmssddd": "00:05:45.900",
+                    "hhmmssff": "00:05:45:22",
+                    "msec": 345900,
+                    "sec": 345.9
+                },
+                "value": "vad de varit med om"
+            }
+        },
+        "347.5": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:05:47.500",
+                    "hhmmssff": "00:05:47:12",
+                    "msec": 347500,
+                    "sec": 347.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:05:48.000",
+                    "hhmmssff": "00:05:48:00",
+                    "msec": 348000,
+                    "sec": 348.0
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:47.500",
+                    "hhmmssff": "00:05:47:12",
+                    "msec": 347500,
+                    "sec": 347.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:05:48.000",
+                    "hhmmssff": "00:05:48:00",
+                    "msec": 348000,
+                    "sec": 348.0
+                },
+                "value": "ja"
+            }
+        },
+        "349.1": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:05:49.100",
+                    "hhmmssff": "00:05:49:02",
+                    "msec": 349100,
+                    "sec": 349.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.900",
+                    "hhmmssff": "00:00:00:22",
+                    "msec": 900,
+                    "sec": 0.9
+                },
+                "end": {
+                    "hhmmssddd": "00:05:50.000",
+                    "hhmmssff": "00:05:50:00",
+                    "msec": 350000,
+                    "sec": 350.0
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:49.100",
+                    "hhmmssff": "00:05:49:02",
+                    "msec": 349100,
+                    "sec": 349.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.900",
+                    "hhmmssff": "00:00:00:22",
+                    "msec": 900,
+                    "sec": 0.9
+                },
+                "end": {
+                    "hhmmssddd": "00:05:50.000",
+                    "hhmmssff": "00:05:50:00",
+                    "msec": 350000,
+                    "sec": 350.0
+                },
+                "value": "nej men verkligen"
+            }
+        },
+        "350.7": {
+            "confidence_production": {
+                "begin": {
+                    "hhmmssddd": "00:05:50.700",
+                    "hhmmssff": "00:05:50:17",
+                    "msec": 350700,
+                    "sec": 350.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:01:11.800",
+                    "hhmmssff": "00:01:11:20",
+                    "msec": 71800,
+                    "sec": 71.8
+                },
+                "end": {
+                    "hhmmssddd": "00:07:02.500",
+                    "hhmmssff": "00:07:02:12",
+                    "msec": 422500,
+                    "sec": 422.5
+                },
+                "value": "3"
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:50.700",
+                    "hhmmssff": "00:05:50:17",
+                    "msec": 350700,
+                    "sec": 350.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.600",
+                    "hhmmssff": "00:00:04:15",
+                    "msec": 4600,
+                    "sec": 4.6
+                },
+                "end": {
+                    "hhmmssddd": "00:05:55.300",
+                    "hhmmssff": "00:05:55:07",
+                    "msec": 355300,
+                    "sec": 355.3
+                },
+                "value": "för jag tänker att där finns det verkligen en grej att föräldrar ska ha någon sorts insyn"
+            },
+            "production_annotation": {
+                "begin": {
+                    "hhmmssddd": "00:05:50.700",
+                    "hhmmssff": "00:05:50:17",
+                    "msec": 350700,
+                    "sec": 350.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:01:11.800",
+                    "hhmmssff": "00:01:11:20",
+                    "msec": 71800,
+                    "sec": 71.8
+                },
+                "end": {
+                    "hhmmssddd": "00:07:02.500",
+                    "hhmmssff": "00:07:02:12",
+                    "msec": 422500,
+                    "sec": 422.5
+                },
+                "value": "4"
+            }
+        },
+        "356.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:56.500",
+                    "hhmmssff": "00:05:56:12",
+                    "msec": 356500,
+                    "sec": 356.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.200",
+                    "hhmmssff": "00:00:02:05",
+                    "msec": 2200,
+                    "sec": 2.2
+                },
+                "end": {
+                    "hhmmssddd": "00:05:58.700",
+                    "hhmmssff": "00:05:58:17",
+                    "msec": 358700,
+                    "sec": 358.7
+                },
+                "value": "i vad som pågår i i mobilen"
+            }
+        },
+        "359.1": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:05:59.100",
+                    "hhmmssff": "00:05:59:02",
+                    "msec": 359100,
+                    "sec": 359.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.800",
+                    "hhmmssff": "00:00:01:20",
+                    "msec": 1800,
+                    "sec": 1.8
+                },
+                "end": {
+                    "hhmmssddd": "00:06:00.900",
+                    "hhmmssff": "00:06:00:22",
+                    "msec": 360900,
+                    "sec": 360.9
+                },
+                "value": "eh eller vad som pågår så"
+            }
+        },
+        "361.1": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:01.100",
+                    "hhmmssff": "00:06:01:02",
+                    "msec": 361100,
+                    "sec": 361.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.300",
+                    "hhmmssff": "00:00:00:07",
+                    "msec": 300,
+                    "sec": 0.3
+                },
+                "end": {
+                    "hhmmssddd": "00:06:01.400",
+                    "hhmmssff": "00:06:01:10",
+                    "msec": 361400,
+                    "sec": 361.4
+                },
+                "value": "och"
+            }
+        },
+        "361.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:01.700",
+                    "hhmmssff": "00:06:01:17",
+                    "msec": 361700,
+                    "sec": 361.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.600",
+                    "hhmmssff": "00:00:01:15",
+                    "msec": 1600,
+                    "sec": 1.6
+                },
+                "end": {
+                    "hhmmssddd": "00:06:03.300",
+                    "hhmmssff": "00:06:03:07",
+                    "msec": 363300,
+                    "sec": 363.3
+                },
+                "value": "vart barnen befinner sig liksom"
+            }
+        },
+        "365.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:05.500",
+                    "hhmmssff": "00:06:05:12",
+                    "msec": 365500,
+                    "sec": 365.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:06:06.000",
+                    "hhmmssff": "00:06:06:00",
+                    "msec": 366000,
+                    "sec": 366.0
+                },
+                "value": "ehm"
+            }
+        },
+        "366.3": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:06.300",
+                    "hhmmssff": "00:06:06:07",
+                    "msec": 366300,
+                    "sec": 366.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.000",
+                    "hhmmssff": "00:00:01:00",
+                    "msec": 1000,
+                    "sec": 1.0
+                },
+                "end": {
+                    "hhmmssddd": "00:06:07.300",
+                    "hhmmssff": "00:06:07:07",
+                    "msec": 367300,
+                    "sec": 367.3
+                },
+                "value": "där kan jag också tänka att"
+            }
+        },
+        "367.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:07.700",
+                    "hhmmssff": "00:06:07:17",
+                    "msec": 367700,
+                    "sec": 367.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.600",
+                    "hhmmssff": "00:00:02:15",
+                    "msec": 2600,
+                    "sec": 2.6
+                },
+                "end": {
+                    "hhmmssddd": "00:06:10.300",
+                    "hhmmssff": "00:06:10:07",
+                    "msec": 370300,
+                    "sec": 370.3
+                },
+                "value": "eller det där kan jag för jag jag har inte heller barn jag är"
+            }
+        },
+        "370.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:10.600",
+                    "hhmmssff": "00:06:10:15",
+                    "msec": 370600,
+                    "sec": 370.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:06:11.100",
+                    "hhmmssff": "00:06:11:02",
+                    "msec": 371100,
+                    "sec": 371.1
+                },
+                "value": "liksom"
+            }
+        },
+        "371.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:11.500",
+                    "hhmmssff": "00:06:11:12",
+                    "msec": 371500,
+                    "sec": 371.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.500",
+                    "hhmmssff": "00:00:03:12",
+                    "msec": 3500,
+                    "sec": 3.5
+                },
+                "end": {
+                    "hhmmssddd": "00:06:15.000",
+                    "hhmmssff": "00:06:15:00",
+                    "msec": 375000,
+                    "sec": 375.0
+                },
+                "value": "jag känner att jag på något sätt är lite lika långt bort från att vara"
+            }
+        },
+        "375.3": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:15.300",
+                    "hhmmssff": "00:06:15:07",
+                    "msec": 375300,
+                    "sec": 375.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.700",
+                    "hhmmssff": "00:00:03:17",
+                    "msec": 3700,
+                    "sec": 3.7
+                },
+                "end": {
+                    "hhmmssddd": "00:06:19.000",
+                    "hhmmssff": "00:06:19:00",
+                    "msec": 379000,
+                    "sec": 379.0
+                },
+                "value": "tonåring kanske själv till att när när jag kommer ha alltså att få ett barn"
+            }
+        },
+        "379.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:19.400",
+                    "hhmmssff": "00:06:19:10",
+                    "msec": 379400,
+                    "sec": 379.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:07.600",
+                    "hhmmssff": "00:00:07:15",
+                    "msec": 7600,
+                    "sec": 7.6
+                },
+                "end": {
+                    "hhmmssddd": "00:06:27.000",
+                    "hhmmssff": "00:06:27:00",
+                    "msec": 387000,
+                    "sec": 387.0
+                },
+                "value": "så det är lite det här alltså jag kan verkligen eller jag skulle ju bli typ jättearg om mina föräldrar ville ha liksom så mycket insyn i vad jag gjorde på mobilen"
+            }
+        },
+        "387.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:27.600",
+                    "hhmmssff": "00:06:27:15",
+                    "msec": 387600,
+                    "sec": 387.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:06.500",
+                    "hhmmssff": "00:00:06:12",
+                    "msec": 6500,
+                    "sec": 6.5
+                },
+                "end": {
+                    "hhmmssddd": "00:06:34.100",
+                    "hhmmssff": "00:06:34:02",
+                    "msec": 394100,
+                    "sec": 394.1
+                },
+                "value": "men jag kan samtidigt också verkligen förstå att man som förälder vill ha det för att man man man är så orolig och det kan pågå så mycket"
+            }
+        },
+        "394.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:34.400",
+                    "hhmmssff": "00:06:34:10",
+                    "msec": 394400,
+                    "sec": 394.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.600",
+                    "hhmmssff": "00:00:00:15",
+                    "msec": 600,
+                    "sec": 0.6
+                },
+                "end": {
+                    "hhmmssddd": "00:06:35.000",
+                    "hhmmssff": "00:06:35:00",
+                    "msec": 395000,
+                    "sec": 395.0
+                },
+                "value": "eh"
+            }
+        },
+        "395.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:35.700",
+                    "hhmmssff": "00:06:35:17",
+                    "msec": 395700,
+                    "sec": 395.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.300",
+                    "hhmmssff": "00:00:00:07",
+                    "msec": 300,
+                    "sec": 0.3
+                },
+                "end": {
+                    "hhmmssddd": "00:06:36.000",
+                    "hhmmssff": "00:06:36:00",
+                    "msec": 396000,
+                    "sec": 396.0
+                },
+                "value": "för"
+            }
+        },
+        "396.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:36.600",
+                    "hhmmssff": "00:06:36:15",
+                    "msec": 396600,
+                    "sec": 396.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:05.800",
+                    "hhmmssff": "00:00:05:20",
+                    "msec": 5800,
+                    "sec": 5.8
+                },
+                "end": {
+                    "hhmmssddd": "00:06:42.400",
+                    "hhmmssff": "00:06:42:10",
+                    "msec": 402400,
+                    "sec": 402.4
+                },
+                "value": "liksom med mobilen och sociala medier så öppnas ju en hel värld upp som vi inte har funnit innan innan har det ju varit så att"
+            }
+        },
+        "403.1": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:43.100",
+                    "hhmmssff": "00:06:43:02",
+                    "msec": 403100,
+                    "sec": 403.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:06:43.500",
+                    "hhmmssff": "00:06:43:12",
+                    "msec": 403500,
+                    "sec": 403.5
+                },
+                "value": "liksom"
+            }
+        },
+        "404.1": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:44.100",
+                    "hhmmssff": "00:06:44:02",
+                    "msec": 404100,
+                    "sec": 404.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:08.900",
+                    "hhmmssff": "00:00:08:22",
+                    "msec": 8900,
+                    "sec": 8.9
+                },
+                "end": {
+                    "hhmmssddd": "00:06:53.000",
+                    "hhmmssff": "00:06:53:00",
+                    "msec": 413000,
+                    "sec": 413.0
+                },
+                "value": "vad nu tyvärr är skolan och familjen och kompisarna i området och fotbollen typ men i mobilen så finns det ju en hel parallell värld som föräldrarna inte har någon insyn i liksom"
+            }
+        },
+        "413.8": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:53.800",
+                    "hhmmssff": "00:06:53:20",
+                    "msec": 413800,
+                    "sec": 413.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:06:54.200",
+                    "hhmmssff": "00:06:54:05",
+                    "msec": 414200,
+                    "sec": 414.2
+                },
+                "value": "ehm"
+            }
+        },
+        "415.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:55.400",
+                    "hhmmssff": "00:06:55:10",
+                    "msec": 415400,
+                    "sec": 415.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.600",
+                    "hhmmssff": "00:00:01:15",
+                    "msec": 1600,
+                    "sec": 1.6
+                },
+                "end": {
+                    "hhmmssddd": "00:06:57.000",
+                    "hhmmssff": "00:06:57:00",
+                    "msec": 417000,
+                    "sec": 417.0
+                },
+                "value": "ja det kan jag verkligen tänka mig är"
+            }
+        },
+        "417.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:06:57.400",
+                    "hhmmssff": "00:06:57:10",
+                    "msec": 417400,
+                    "sec": 417.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.700",
+                    "hhmmssff": "00:00:02:17",
+                    "msec": 2700,
+                    "sec": 2.7
+                },
+                "end": {
+                    "hhmmssddd": "00:07:00.100",
+                    "hhmmssff": "00:07:00:02",
+                    "msec": 420100,
+                    "sec": 420.1
+                },
+                "value": "läskigt och stressigt som förälder också"
+            }
+        },
+        "420.9": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:00.900",
+                    "hhmmssff": "00:07:00:22",
+                    "msec": 420900,
+                    "sec": 420.9
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.600",
+                    "hhmmssff": "00:00:01:15",
+                    "msec": 1600,
+                    "sec": 1.6
+                },
+                "end": {
+                    "hhmmssddd": "00:07:02.500",
+                    "hhmmssff": "00:07:02:12",
+                    "msec": 422500,
+                    "sec": 422.5
+                },
+                "value": "man inte riktigt vet vad som pågår"
+            }
+        },
+        "424.3": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:07:04.300",
+                    "hhmmssff": "00:07:04:07",
+                    "msec": 424300,
+                    "sec": 424.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.200",
+                    "hhmmssff": "00:00:01:05",
+                    "msec": 1200,
+                    "sec": 1.2
+                },
+                "end": {
+                    "hhmmssddd": "00:07:05.500",
+                    "hhmmssff": "00:07:05:12",
+                    "msec": 425500,
+                    "sec": 425.5
+                },
+                "value": "verkligen"
+            }
+        },
+        "426.5": {
+            "confidence_production": {
+                "begin": {
+                    "hhmmssddd": "00:07:06.500",
+                    "hhmmssff": "00:07:06:12",
+                    "msec": 426500,
+                    "sec": 426.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:52.300",
+                    "hhmmssff": "00:00:52:07",
+                    "msec": 52300,
+                    "sec": 52.3
+                },
+                "end": {
+                    "hhmmssddd": "00:07:58.800",
+                    "hhmmssff": "00:07:58:20",
+                    "msec": 478800,
+                    "sec": 478.8
+                },
+                "value": "3"
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:06.500",
+                    "hhmmssff": "00:07:06:12",
+                    "msec": 426500,
+                    "sec": 426.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.100",
+                    "hhmmssff": "00:00:04:02",
+                    "msec": 4100,
+                    "sec": 4.1
+                },
+                "end": {
+                    "hhmmssddd": "00:07:10.600",
+                    "hhmmssff": "00:07:10:15",
+                    "msec": 430600,
+                    "sec": 430.6
+                },
+                "value": "och där kan man ju också få kontakt eller där kan ju barnen och ungdomarna också få kontakt med"
+            },
+            "production_annotation": {
+                "begin": {
+                    "hhmmssddd": "00:07:06.500",
+                    "hhmmssff": "00:07:06:12",
+                    "msec": 426500,
+                    "sec": 426.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:52.300",
+                    "hhmmssff": "00:00:52:07",
+                    "msec": 52300,
+                    "sec": 52.3
+                },
+                "end": {
+                    "hhmmssddd": "00:07:58.800",
+                    "hhmmssff": "00:07:58:20",
+                    "msec": 478800,
+                    "sec": 478.8
+                },
+                "value": "5"
+            }
+        },
+        "432.9": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:12.900",
+                    "hhmmssff": "00:07:12:22",
+                    "msec": 432900,
+                    "sec": 432.9
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.100",
+                    "hhmmssff": "00:00:04:02",
+                    "msec": 4100,
+                    "sec": 4.1
+                },
+                "end": {
+                    "hhmmssddd": "00:07:17.000",
+                    "hhmmssff": "00:07:17:00",
+                    "msec": 437000,
+                    "sec": 437.0
+                },
+                "value": "vänner som är eller egentligen så personer som inte är"
+            }
+        },
+        "438.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:18.500",
+                    "hhmmssff": "00:07:18:12",
+                    "msec": 438500,
+                    "sec": 438.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.400",
+                    "hhmmssff": "00:00:03:10",
+                    "msec": 3400,
+                    "sec": 3.4
+                },
+                "end": {
+                    "hhmmssddd": "00:07:21.900",
+                    "hhmmssff": "00:07:21:22",
+                    "msec": 441900,
+                    "sec": 441.9
+                },
+                "value": "alltså som som utger sig för att vara något annat än vad de kanske är men också just"
+            }
+        },
+        "443.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:23.200",
+                    "hhmmssff": "00:07:23:05",
+                    "msec": 443200,
+                    "sec": 443.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.300",
+                    "hhmmssff": "00:00:01:07",
+                    "msec": 1300,
+                    "sec": 1.3
+                },
+                "end": {
+                    "hhmmssddd": "00:07:24.500",
+                    "hhmmssff": "00:07:24:12",
+                    "msec": 444500,
+                    "sec": 444.5
+                },
+                "value": "det finns ju sådana här ehm"
+            }
+        },
+        "445.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:25.700",
+                    "hhmmssff": "00:07:25:17",
+                    "msec": 445700,
+                    "sec": 445.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.800",
+                    "hhmmssff": "00:00:01:20",
+                    "msec": 1800,
+                    "sec": 1.8
+                },
+                "end": {
+                    "hhmmssddd": "00:07:27.500",
+                    "hhmmssff": "00:07:27:12",
+                    "msec": 447500,
+                    "sec": 447.5
+                },
+                "value": "nästan eh vad heter det?"
+            }
+        },
+        "447.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:27.700",
+                    "hhmmssff": "00:07:27:17",
+                    "msec": 447700,
+                    "sec": 447.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.300",
+                    "hhmmssff": "00:00:00:07",
+                    "msec": 300,
+                    "sec": 0.3
+                },
+                "end": {
+                    "hhmmssddd": "00:07:28.000",
+                    "hhmmssff": "00:07:28:00",
+                    "msec": 448000,
+                    "sec": 448.0
+                },
+                "value": "grupper"
+            }
+        },
+        "448.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:28.400",
+                    "hhmmssff": "00:07:28:10",
+                    "msec": 448400,
+                    "sec": 448.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.100",
+                    "hhmmssff": "00:00:04:02",
+                    "msec": 4100,
+                    "sec": 4.1
+                },
+                "end": {
+                    "hhmmssddd": "00:07:32.500",
+                    "hhmmssff": "00:07:32:12",
+                    "msec": 452500,
+                    "sec": 452.5
+                },
+                "value": "grupper som såhär uppmuntrar också dåligt alltså jag vet att det är väl liksom"
+            }
+        },
+        "454.0": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:34.000",
+                    "hhmmssff": "00:07:34:00",
+                    "msec": 454000,
+                    "sec": 454.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.200",
+                    "hhmmssff": "00:00:01:05",
+                    "msec": 1200,
+                    "sec": 1.2
+                },
+                "end": {
+                    "hhmmssddd": "00:07:35.200",
+                    "hhmmssff": "00:07:35:05",
+                    "msec": 455200,
+                    "sec": 455.2
+                },
+                "value": "alltså att det var någon"
+            }
+        },
+        "455.9": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:35.900",
+                    "hhmmssff": "00:07:35:22",
+                    "msec": 455900,
+                    "sec": 455.9
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:15.000",
+                    "hhmmssff": "00:00:15:00",
+                    "msec": 15000,
+                    "sec": 15.0
+                },
+                "end": {
+                    "hhmmssddd": "00:07:50.900",
+                    "hhmmssff": "00:07:50:22",
+                    "msec": 470900,
+                    "sec": 470.9
+                },
+                "value": "person någon ungdom som var jättemycket på sådana här pro ana sidor på typ tiktok och så som såhär förespråkar anorexi och att det är så himla och det ja du fattar att det är så himla mycket idealisering och så och det är ju såhär det är bara dåliga ställen för barn att vara och då"
+            }
+        },
+        "471.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:51.200",
+                    "hhmmssff": "00:07:51:05",
+                    "msec": 471200,
+                    "sec": 471.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.100",
+                    "hhmmssff": "00:00:03:02",
+                    "msec": 3100,
+                    "sec": 3.1
+                },
+                "end": {
+                    "hhmmssddd": "00:07:54.300",
+                    "hhmmssff": "00:07:54:07",
+                    "msec": 474300,
+                    "sec": 474.3
+                },
+                "value": "om att vet att det pågår som förälder då kan man ju faktiskt ta ut"
+            }
+        },
+        "474.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:54.500",
+                    "hhmmssff": "00:07:54:12",
+                    "msec": 474500,
+                    "sec": 474.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.300",
+                    "hhmmssff": "00:00:00:07",
+                    "msec": 300,
+                    "sec": 0.3
+                },
+                "end": {
+                    "hhmmssddd": "00:07:54.800",
+                    "hhmmssff": "00:07:54:20",
+                    "msec": 474800,
+                    "sec": 474.8
+                },
+                "value": "ta bort"
+            }
+        },
+        "475.8": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:55.800",
+                    "hhmmssff": "00:07:55:20",
+                    "msec": 475800,
+                    "sec": 475.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.700",
+                    "hhmmssff": "00:00:01:17",
+                    "msec": 1700,
+                    "sec": 1.7
+                },
+                "end": {
+                    "hhmmssddd": "00:07:57.500",
+                    "hhmmssff": "00:07:57:12",
+                    "msec": 477500,
+                    "sec": 477.5
+                },
+                "value": "barnet därifrån eller ha lite"
+            }
+        },
+        "477.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:57.700",
+                    "hhmmssff": "00:07:57:17",
+                    "msec": 477700,
+                    "sec": 477.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.100",
+                    "hhmmssff": "00:00:01:02",
+                    "msec": 1100,
+                    "sec": 1.1
+                },
+                "end": {
+                    "hhmmssddd": "00:07:58.800",
+                    "hhmmssff": "00:07:58:20",
+                    "msec": 478800,
+                    "sec": 478.8
+                },
+                "value": "påverkan liksom"
+            }
+        },
+        "480.6": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:08:00.600",
+                    "hhmmssff": "00:08:00:15",
+                    "msec": 480600,
+                    "sec": 480.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.900",
+                    "hhmmssff": "00:00:03:22",
+                    "msec": 3900,
+                    "sec": 3.9
+                },
+                "end": {
+                    "hhmmssddd": "00:08:04.500",
+                    "hhmmssff": "00:08:04:12",
+                    "msec": 484500,
+                    "sec": 484.5
+                },
+                "value": "ja gud usch vad läskigt tänker jag"
+            }
+        },
+        "483.7": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:08:03.700",
+                    "hhmmssff": "00:08:03:17",
+                    "msec": 483700,
+                    "sec": 483.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.100",
+                    "hhmmssff": "00:00:01:02",
+                    "msec": 1100,
+                    "sec": 1.1
+                },
+                "end": {
+                    "hhmmssddd": "00:08:04.800",
+                    "hhmmssff": "00:08:04:20",
+                    "msec": 484800,
+                    "sec": 484.8
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:03.700",
+                    "hhmmssff": "00:08:03:17",
+                    "msec": 483700,
+                    "sec": 483.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.100",
+                    "hhmmssff": "00:00:01:02",
+                    "msec": 1100,
+                    "sec": 1.1
+                },
+                "end": {
+                    "hhmmssddd": "00:08:04.800",
+                    "hhmmssff": "00:08:04:20",
+                    "msec": 484800,
+                    "sec": 484.8
+                },
+                "value": "ja verkligen"
+            }
+        },
+        "485.2": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:08:05.200",
+                    "hhmmssff": "00:08:05:05",
+                    "msec": 485200,
+                    "sec": 485.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.400",
+                    "hhmmssff": "00:00:04:10",
+                    "msec": 4400,
+                    "sec": 4.4
+                },
+                "end": {
+                    "hhmmssddd": "00:08:09.600",
+                    "hhmmssff": "00:08:09:15",
+                    "msec": 489600,
+                    "sec": 489.6
+                },
+                "value": "för att nu får ju folk nu får ju barn någon telefon jättetidigt också"
+            }
+        },
+        "488.6": {
+            "confidence_production": {
+                "begin": {
+                    "hhmmssddd": "00:08:08.600",
+                    "hhmmssff": "00:08:08:15",
+                    "msec": 488600,
+                    "sec": 488.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:01:02.400",
+                    "hhmmssff": "00:01:02:10",
+                    "msec": 62400,
+                    "sec": 62.4
+                },
+                "end": {
+                    "hhmmssddd": "00:09:11.000",
+                    "hhmmssff": "00:09:11:00",
+                    "msec": 551000,
+                    "sec": 551.0
+                },
+                "value": "3"
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:08.600",
+                    "hhmmssff": "00:08:08:15",
+                    "msec": 488600,
+                    "sec": 488.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:08:09.100",
+                    "hhmmssff": "00:08:09:02",
+                    "msec": 489100,
+                    "sec": 489.1
+                },
+                "value": "ja"
+            },
+            "production_annotation": {
+                "begin": {
+                    "hhmmssddd": "00:08:08.600",
+                    "hhmmssff": "00:08:08:15",
+                    "msec": 488600,
+                    "sec": 488.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:01:02.400",
+                    "hhmmssff": "00:01:02:10",
+                    "msec": 62400,
+                    "sec": 62.4
+                },
+                "end": {
+                    "hhmmssddd": "00:09:11.000",
+                    "hhmmssff": "00:09:11:00",
+                    "msec": 551000,
+                    "sec": 551.0
+                },
+                "value": "4"
+            }
+        },
+        "489.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:09.500",
+                    "hhmmssff": "00:08:09:12",
+                    "msec": 489500,
+                    "sec": 489.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.300",
+                    "hhmmssff": "00:00:00:07",
+                    "msec": 300,
+                    "sec": 0.3
+                },
+                "end": {
+                    "hhmmssddd": "00:08:09.800",
+                    "hhmmssff": "00:08:09:20",
+                    "msec": 489800,
+                    "sec": 489.8
+                },
+                "value": "visst"
+            }
+        },
+        "490.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:10.600",
+                    "hhmmssff": "00:08:10:15",
+                    "msec": 490600,
+                    "sec": 490.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.700",
+                    "hhmmssff": "00:00:00:17",
+                    "msec": 700,
+                    "sec": 0.7
+                },
+                "end": {
+                    "hhmmssddd": "00:08:11.300",
+                    "hhmmssff": "00:08:11:07",
+                    "msec": 491300,
+                    "sec": 491.3
+                },
+                "value": "och då då"
+            }
+        },
+        "491.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:11.600",
+                    "hhmmssff": "00:08:11:15",
+                    "msec": 491600,
+                    "sec": 491.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:06.300",
+                    "hhmmssff": "00:00:06:07",
+                    "msec": 6300,
+                    "sec": 6.3
+                },
+                "end": {
+                    "hhmmssddd": "00:08:17.900",
+                    "hhmmssff": "00:08:17:22",
+                    "msec": 497900,
+                    "sec": 497.9
+                },
+                "value": "då då kan de ju ladda ner tiktok alltså då då gör de ju det och då där där finns det ju det borde ju finnas som på youtube tror jag att det finns såhär"
+            }
+        },
+        "498.3": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:18.300",
+                    "hhmmssff": "00:08:18:07",
+                    "msec": 498300,
+                    "sec": 498.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.800",
+                    "hhmmssff": "00:00:04:20",
+                    "msec": 4800,
+                    "sec": 4.8
+                },
+                "end": {
+                    "hhmmssddd": "00:08:23.100",
+                    "hhmmssff": "00:08:23:02",
+                    "msec": 503100,
+                    "sec": 503.1
+                },
+                "value": "bara barnvänligt på något sätt alltså det finns någon sorts knapp man kan klicka in att det bara ska vara så"
+            }
+        },
+        "503.4": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:23.400",
+                    "hhmmssff": "00:08:23:10",
+                    "msec": 503400,
+                    "sec": 503.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:06.000",
+                    "hhmmssff": "00:00:06:00",
+                    "msec": 6000,
+                    "sec": 6.0
+                },
+                "end": {
+                    "hhmmssddd": "00:08:29.400",
+                    "hhmmssff": "00:08:29:10",
+                    "msec": 509400,
+                    "sec": 509.4
+                },
+                "value": "eller typ SVT att det bara ska vara barnvänliga barnvänliga program och sådant som dyker upp det borde göras det kanske på tiktok och"
+            }
+        },
+        "509.9": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:29.900",
+                    "hhmmssff": "00:08:29:22",
+                    "msec": 509900,
+                    "sec": 509.9
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.400",
+                    "hhmmssff": "00:00:01:10",
+                    "msec": 1400,
+                    "sec": 1.4
+                },
+                "end": {
+                    "hhmmssddd": "00:08:31.300",
+                    "hhmmssff": "00:08:31:07",
+                    "msec": 511300,
+                    "sec": 511.3
+                },
+                "value": "instagram och sådant också"
+            }
+        },
+        "512.0": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:32.000",
+                    "hhmmssff": "00:08:32:00",
+                    "msec": 512000,
+                    "sec": 512.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.300",
+                    "hhmmssff": "00:00:02:07",
+                    "msec": 2300,
+                    "sec": 2.3
+                },
+                "end": {
+                    "hhmmssddd": "00:08:34.300",
+                    "hhmmssff": "00:08:34:07",
+                    "msec": 514300,
+                    "sec": 514.3
+                },
+                "value": "att det är någonting som delas upp lite mer så"
+            }
+        },
+        "516.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:36.500",
+                    "hhmmssff": "00:08:36:12",
+                    "msec": 516500,
+                    "sec": 516.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:08:36.900",
+                    "hhmmssff": "00:08:36:22",
+                    "msec": 516900,
+                    "sec": 516.9
+                },
+                "value": "ja"
+            }
+        },
+        "519.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:39.600",
+                    "hhmmssff": "00:08:39:15",
+                    "msec": 519600,
+                    "sec": 519.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.200",
+                    "hhmmssff": "00:00:01:05",
+                    "msec": 1200,
+                    "sec": 1.2
+                },
+                "end": {
+                    "hhmmssddd": "00:08:40.800",
+                    "hhmmssff": "00:08:40:20",
+                    "msec": 520800,
+                    "sec": 520.8
+                },
+                "value": "för det känns också som att"
+            }
+        },
+        "522.0": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:42.000",
+                    "hhmmssff": "00:08:42:00",
+                    "msec": 522000,
+                    "sec": 522.0
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:07.100",
+                    "hhmmssff": "00:00:07:02",
+                    "msec": 7100,
+                    "sec": 7.1
+                },
+                "end": {
+                    "hhmmssddd": "00:08:49.100",
+                    "hhmmssff": "00:08:49:02",
+                    "msec": 529100,
+                    "sec": 529.1
+                },
+                "value": "eller jag förstår verkligen att man som barn också väldigt mycket värnar om sitt privatliv ju alltså särskilt när man kommer in i tonåren att det är hela"
+            }
+        },
+        "529.9": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:49.900",
+                    "hhmmssff": "00:08:49:22",
+                    "msec": 529900,
+                    "sec": 529.9
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.500",
+                    "hhmmssff": "00:00:03:12",
+                    "msec": 3500,
+                    "sec": 3.5
+                },
+                "end": {
+                    "hhmmssddd": "00:08:53.400",
+                    "hhmmssff": "00:08:53:10",
+                    "msec": 533400,
+                    "sec": 533.4
+                },
+                "value": "de är litegrann det som ska ske med utvecklingen att man ska"
+            }
+        },
+        "533.8": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:53.800",
+                    "hhmmssff": "00:08:53:20",
+                    "msec": 533800,
+                    "sec": 533.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.600",
+                    "hhmmssff": "00:00:00:15",
+                    "msec": 600,
+                    "sec": 0.6
+                },
+                "end": {
+                    "hhmmssddd": "00:08:54.400",
+                    "hhmmssff": "00:08:54:10",
+                    "msec": 534400,
+                    "sec": 534.4
+                },
+                "value": "få vara"
+            }
+        },
+        "535.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:08:55.600",
+                    "hhmmssff": "00:08:55:15",
+                    "msec": 535600,
+                    "sec": 535.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:09.500",
+                    "hhmmssff": "00:00:09:12",
+                    "msec": 9500,
+                    "sec": 9.5
+                },
+                "end": {
+                    "hhmmssddd": "00:09:05.100",
+                    "hhmmssff": "00:09:05:02",
+                    "msec": 545100,
+                    "sec": 545.1
+                },
+                "value": "och bara ska få ha sitt egna man ska ju liksom separera sig från föräldrarna och alltså du vet och göra lite revolt och då blir det ju lite nästan lite övergrepp att om föräldrarna har full insyn"
+            }
+        },
+        "545.9": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:09:05.900",
+                    "hhmmssff": "00:09:05:22",
+                    "msec": 545900,
+                    "sec": 545.9
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.600",
+                    "hhmmssff": "00:00:03:15",
+                    "msec": 3600,
+                    "sec": 3.6
+                },
+                "end": {
+                    "hhmmssddd": "00:09:09.500",
+                    "hhmmssff": "00:09:09:12",
+                    "msec": 549500,
+                    "sec": 549.5
+                },
+                "value": "i i vad barnet gör det det stoppar ju utvecklingen litegrann"
+            }
+        },
+        "550.4": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:09:10.400",
+                    "hhmmssff": "00:09:10:10",
+                    "msec": 550400,
+                    "sec": 550.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.400",
+                    "hhmmssff": "00:00:04:10",
+                    "msec": 4400,
+                    "sec": 4.4
+                },
+                "end": {
+                    "hhmmssddd": "00:09:14.800",
+                    "hhmmssff": "00:09:14:20",
+                    "msec": 554800,
+                    "sec": 554.8
+                },
+                "value": "ja alltså jag hade tyckt det var jag hade tyckt det var jättejobbigt när jag var tonåring"
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:09:10.400",
+                    "hhmmssff": "00:09:10:10",
+                    "msec": 550400,
+                    "sec": 550.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.600",
+                    "hhmmssff": "00:00:00:15",
+                    "msec": 600,
+                    "sec": 0.6
+                },
+                "end": {
+                    "hhmmssddd": "00:09:11.000",
+                    "hhmmssff": "00:09:11:00",
+                    "msec": 551000,
+                    "sec": 551.0
+                },
+                "value": "och så"
+            }
+        },
+        "553.8": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:09:13.800",
+                    "hhmmssff": "00:09:13:20",
+                    "msec": 553800,
+                    "sec": 553.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.400",
+                    "hhmmssff": "00:00:01:10",
+                    "msec": 1400,
+                    "sec": 1.4
+                },
+                "end": {
+                    "hhmmssddd": "00:09:15.200",
+                    "hhmmssff": "00:09:15:05",
+                    "msec": 555200,
+                    "sec": 555.2
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:09:13.800",
+                    "hhmmssff": "00:09:13:20",
+                    "msec": 553800,
+                    "sec": 553.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.400",
+                    "hhmmssff": "00:00:01:10",
+                    "msec": 1400,
+                    "sec": 1.4
+                },
+                "end": {
+                    "hhmmssddd": "00:09:15.200",
+                    "hhmmssff": "00:09:15:05",
+                    "msec": 555200,
+                    "sec": 555.2
+                },
+                "value": "ja verkligen"
+            }
+        },
+        "556.4": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:09:16.400",
+                    "hhmmssff": "00:09:16:10",
+                    "msec": 556400,
+                    "sec": 556.4
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.100",
+                    "hhmmssff": "00:00:02:02",
+                    "msec": 2100,
+                    "sec": 2.1
+                },
+                "end": {
+                    "hhmmssddd": "00:09:18.500",
+                    "hhmmssff": "00:09:18:12",
+                    "msec": 558500,
+                    "sec": 558.5
+                },
+                "value": "så det är verkligen ett eh"
+            }
+        },
+        "559.3": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:09:19.300",
+                    "hhmmssff": "00:09:19:07",
+                    "msec": 559300,
+                    "sec": 559.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.000",
+                    "hhmmssff": "00:00:02:00",
+                    "msec": 2000,
+                    "sec": 2.0
+                },
+                "end": {
+                    "hhmmssddd": "00:09:21.300",
+                    "hhmmssff": "00:09:21:07",
+                    "msec": 561300,
+                    "sec": 561.3
+                },
+                "value": "ett dilemma där haha"
+            }
+        },
+        "561.3": {
+            "confidence_production": {
+                "begin": {
+                    "hhmmssddd": "00:09:21.300",
+                    "hhmmssff": "00:09:21:07",
+                    "msec": 561300,
+                    "sec": 561.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:38.155",
+                    "hhmmssff": "00:00:38:03",
+                    "msec": 38155,
+                    "sec": 38.155
+                },
+                "end": {
+                    "hhmmssddd": "00:09:59.455",
+                    "hhmmssff": "00:09:59:11",
+                    "msec": 599455,
+                    "sec": 599.455
+                },
+                "value": "3"
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:09:21.300",
+                    "hhmmssff": "00:09:21:07",
+                    "msec": 561300,
+                    "sec": 561.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:01.100",
+                    "hhmmssff": "00:00:01:02",
+                    "msec": 1100,
+                    "sec": 1.1
+                },
+                "end": {
+                    "hhmmssddd": "00:09:22.400",
+                    "hhmmssff": "00:09:22:10",
+                    "msec": 562400,
+                    "sec": 562.4
+                },
+                "value": "nej men det är verkligen det"
+            },
+            "production_annotation": {
+                "begin": {
+                    "hhmmssddd": "00:09:21.300",
+                    "hhmmssff": "00:09:21:07",
+                    "msec": 561300,
+                    "sec": 561.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:38.155",
+                    "hhmmssff": "00:00:38:03",
+                    "msec": 38155,
+                    "sec": 38.155
+                },
+                "end": {
+                    "hhmmssddd": "00:09:59.455",
+                    "hhmmssff": "00:09:59:11",
+                    "msec": 599455,
+                    "sec": 599.455
+                },
+                "value": "4"
+            }
+        },
+        "562.8": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:09:22.800",
+                    "hhmmssff": "00:09:22:20",
+                    "msec": 562800,
+                    "sec": 562.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:09:23.300",
+                    "hhmmssff": "00:09:23:07",
+                    "msec": 563300,
+                    "sec": 563.3
+                },
+                "value": "ehm"
+            }
+        },
+        "564.6": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:09:24.600",
+                    "hhmmssff": "00:09:24:15",
+                    "msec": 564600,
+                    "sec": 564.6
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:07.600",
+                    "hhmmssff": "00:00:07:15",
+                    "msec": 7600,
+                    "sec": 7.6
+                },
+                "end": {
+                    "hhmmssddd": "00:09:32.200",
+                    "hhmmssff": "00:09:32:05",
+                    "msec": 572200,
+                    "sec": 572.2
+                },
+                "value": "känns också som att kanske ungdomar i sådana fall om de visste att att föräldrar hade insyn att de kanske ändå skulle hitta vägar runt det alltså förstår du? att de alltså"
+            }
+        },
+        "573.1": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:09:33.100",
+                    "hhmmssff": "00:09:33:02",
+                    "msec": 573100,
+                    "sec": 573.1
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.500",
+                    "hhmmssff": "00:00:02:12",
+                    "msec": 2500,
+                    "sec": 2.5
+                },
+                "end": {
+                    "hhmmssddd": "00:09:35.600",
+                    "hhmmssff": "00:09:35:15",
+                    "msec": 575600,
+                    "sec": 575.6
+                },
+                "value": "vad heter det tonåringar gör väl vad tonåringar gör? alltså"
+            }
+        },
+        "576.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:09:36.200",
+                    "hhmmssff": "00:09:36:05",
+                    "msec": 576200,
+                    "sec": 576.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:03.500",
+                    "hhmmssff": "00:00:03:12",
+                    "msec": 3500,
+                    "sec": 3.5
+                },
+                "end": {
+                    "hhmmssddd": "00:09:39.700",
+                    "hhmmssff": "00:09:39:17",
+                    "msec": 579700,
+                    "sec": 579.7
+                },
+                "value": "om om om föräldrarna kan se dig på mobilen kanske de bara skulle"
+            }
+        },
+        "581.3": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:09:41.300",
+                    "hhmmssff": "00:09:41:07",
+                    "msec": 581300,
+                    "sec": 581.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:04.200",
+                    "hhmmssff": "00:00:04:05",
+                    "msec": 4200,
+                    "sec": 4.2
+                },
+                "end": {
+                    "hhmmssddd": "00:09:45.500",
+                    "hhmmssff": "00:09:45:12",
+                    "msec": 585500,
+                    "sec": 585.5
+                },
+                "value": "kunna hitta andra sätt att göra samma sak men utan att föräldrarna visste det liksom"
+            }
+        },
+        "587.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:09:47.200",
+                    "hhmmssff": "00:09:47:05",
+                    "msec": 587200,
+                    "sec": 587.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:09:47.700",
+                    "hhmmssff": "00:09:47:17",
+                    "msec": 587700,
+                    "sec": 587.7
+                },
+                "value": "så"
+            }
+        },
+        "588.2": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:09:48.200",
+                    "hhmmssff": "00:09:48:05",
+                    "msec": 588200,
+                    "sec": 588.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.300",
+                    "hhmmssff": "00:00:02:07",
+                    "msec": 2300,
+                    "sec": 2.3
+                },
+                "end": {
+                    "hhmmssddd": "00:09:50.500",
+                    "hhmmssff": "00:09:50:12",
+                    "msec": 590500,
+                    "sec": 590.5
+                },
+                "value": "men men jag jag kan ändå tänka att"
+            }
+        },
+        "588.4": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:09:48.360",
+                    "hhmmssff": "00:09:48:09",
+                    "msec": 588360,
+                    "sec": 588.36
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:09:48.760",
+                    "hhmmssff": "00:09:48:19",
+                    "msec": 588760,
+                    "sec": 588.76
+                },
+                "value": "ja men"
+            }
+        },
+        "591.5": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:09:51.500",
+                    "hhmmssff": "00:09:51:12",
+                    "msec": 591500,
+                    "sec": 591.5
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:07.100",
+                    "hhmmssff": "00:00:07:02",
+                    "msec": 7100,
+                    "sec": 7.1
+                },
+                "end": {
+                    "hhmmssddd": "00:09:58.600",
+                    "hhmmssff": "00:09:58:15",
+                    "msec": 598600,
+                    "sec": 598.6
+                },
+                "value": "för jag växte ju ändå verkligen upp med sociala medier när jag liksom var tonåring eller jag fick typ min första smartphone när jag var typ fjorton så det var väl då jag skaffade alla de här"
+            }
+        },
+        "598.9": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:09:58.865",
+                    "hhmmssff": "00:09:58:21",
+                    "msec": 598865,
+                    "sec": 598.865
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.590",
+                    "hhmmssff": "00:00:00:14",
+                    "msec": 590,
+                    "sec": 0.59
+                },
+                "end": {
+                    "hhmmssddd": "00:09:59.455",
+                    "hhmmssff": "00:09:59:11",
+                    "msec": 599455,
+                    "sec": 599.455
+                },
+                "value": "apparna och sådana saker"
+            }
+        }
+    },
+    "anonymised_id": "id-30",
+    "condition": "human",
+    "dilemma": "tracking_app",
+    "engagement_condition": "low",
+    "filename": "sub-29_run-03_human_low.json",
+    "operator_opinion": "neutral",
+    "opinion_change": "more_pro",
+    "rating1": "2",
+    "rating2": "3",
+    "run": "03",
+    "subject_id": "29"
+}
