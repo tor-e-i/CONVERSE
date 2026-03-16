@@ -8,7 +8,7 @@ The dataset includes the data from 48 participants conversing with a single fema
 
 ## Structure
 
-The dataset includes .csv, .json, and .eaf files. Naming of every file has the following structure: 
+The dataset includes .csv, .json, .srt and .eaf files. Naming of every file has the following structure: 
 ```
 [subject-id]_[run-id]_[group]_[engagement]
 ```
@@ -24,9 +24,10 @@ Data structure:
 |  |  |  |- ...
 |  |- csv                       #contains .csv files for every tier separately 
 |  |  |- ...
-|  |- json                      #contains .json files for every conversation, which includes timestamps of the turns, transcriptions, annotations, and metadata about the session
+|  |- json                      #contains .json files for every conversation, which includes timestamps of the turns, transcriptions, annotations, and metadata about the session.
 |  |  |- ...
-
+|  |- srt                       #contains .srt files with orthographic transcriptions of the conversations used for splitting utterances into turns.
+|  |  |- ...
 ```
 
 Notes:
