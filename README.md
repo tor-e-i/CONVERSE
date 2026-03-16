@@ -10,7 +10,7 @@ The dataset includes the data from 48 participants conversing with a single fema
 
 The dataset includes .csv, .json, and .eaf files. Naming of every file has the following structure: 
 ```
-[subject-id]_[run-id]_[group]_[engagement condition]
+[subject-id]_[run-id]_[group]_[engagement]
 ```
 where 1) indicates participant id (1-55); 2) indicates run/conversation id (1-3); 3) indicates participant's group (human-human, human-robot); 4) indicates predefined engagement condition (high, medium, low).
 
@@ -30,7 +30,7 @@ Data structure:
 
 Notes:
 - Media files are not necessary for opening .eaf files, but can be accessed at https://openneuro.org/datasets/ds004996.
-- Several subject indices are excluded from the dataset: sub-04, sub-09, sub-10, sub-16, sub-17.
+- Several subject indices are excluded from the dataset: sub-04, sub-09, sub-10, sub-16, sub-17, sub-36, sub-39.
 - To refer to confederate's data, the dataset uses "operator".
 
 ## Cite Us
