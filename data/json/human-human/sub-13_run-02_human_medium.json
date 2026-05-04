@@ -1781,16 +1781,16 @@
                     "sec": 157.2
                 },
                 "duration": {
-                    "hhmmssddd": "00:00:02.400",
-                    "hhmmssff": "00:00:02:10",
-                    "msec": 2400,
-                    "sec": 2.4
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
                 },
                 "end": {
-                    "hhmmssddd": "00:02:39.600",
-                    "hhmmssff": "00:02:39:15",
-                    "msec": 159600,
-                    "sec": 159.6
+                    "hhmmssddd": "00:02:37.600",
+                    "hhmmssff": "00:02:37:15",
+                    "msec": 157600,
+                    "sec": 157.6
                 },
                 "value": ""
             },
@@ -1817,6 +1817,27 @@
             }
         },
         "158.3": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:02:38.300",
+                    "hhmmssff": "00:02:38:07",
+                    "msec": 158300,
+                    "sec": 158.3
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.500",
+                    "hhmmssff": "00:00:00:12",
+                    "msec": 500,
+                    "sec": 0.5
+                },
+                "end": {
+                    "hhmmssddd": "00:02:38.800",
+                    "hhmmssff": "00:02:38:20",
+                    "msec": 158800,
+                    "sec": 158.8
+                },
+                "value": ""
+            },
             "participant": {
                 "begin": {
                     "hhmmssddd": "00:02:38.300",
@@ -1840,6 +1861,27 @@
             }
         },
         "159.2": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:02:39.200",
+                    "hhmmssff": "00:02:39:05",
+                    "msec": 159200,
+                    "sec": 159.2
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:02:39.600",
+                    "hhmmssff": "00:02:39:15",
+                    "msec": 159600,
+                    "sec": 159.6
+                },
+                "value": ""
+            },
             "participant": {
                 "begin": {
                     "hhmmssddd": "00:02:39.200",

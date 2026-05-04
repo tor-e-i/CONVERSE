@@ -88,6 +88,29 @@
                 "value": "hej hej"
             }
         },
+        "4.1": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:00:04.130",
+                    "hhmmssff": "00:00:04:03",
+                    "msec": 4130,
+                    "sec": 4.13
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.260",
+                    "hhmmssff": "00:00:00:06",
+                    "msec": 260,
+                    "sec": 0.26
+                },
+                "end": {
+                    "hhmmssddd": "00:00:04.390",
+                    "hhmmssff": "00:00:04:09",
+                    "msec": 4390,
+                    "sec": 4.39
+                },
+                "value": "hej"
+            }
+        },
         "4.7": {
             "participant": {
                 "begin": {
@@ -108,7 +131,7 @@
                     "msec": 5900,
                     "sec": 5.9
                 },
-                "value": "Så vad bestämde då"
+                "value": "Så nästa dilemma då"
             }
         },
         "6.2": {
@@ -131,7 +154,7 @@
                     "msec": 6799,
                     "sec": 6.799
                 },
-                "value": "Nej"
+                "value": "eh"
             }
         },
         "8.4": {
@@ -177,7 +200,7 @@
                     "msec": 10000,
                     "sec": 10.0
                 },
-                "value": "Det blir"
+                "value": "du har"
             }
         },
         "10.3": {
@@ -200,7 +223,7 @@
                     "msec": 11000,
                     "sec": 11.0
                 },
-                "value": "Media på tid"
+                "value": "blivit bjuden på en dejt"
             }
         },
         "12.2": {
@@ -223,7 +246,7 @@
                     "msec": 12599,
                     "sec": 12.599
                 },
-                "value": "Nä"
+                "value": "eh"
             }
         },
         "13.4": {
@@ -292,7 +315,7 @@
                     "msec": 15599,
                     "sec": 15.599
                 },
-                "value": "Ja"
+                "value": "dejten ja"
             }
         },
         "15.3": {
@@ -361,7 +384,7 @@
                     "msec": 20800,
                     "sec": 20.8
                 },
-                "value": "och hitta ett test som heter D8"
+                "value": "så innan dejten ber han dig då"
             }
         },
         "21.1": {
@@ -384,7 +407,7 @@
                     "msec": 22300,
                     "sec": 22.3
                 },
-                "value": "Göra ett test"
+                "value": "att göra ett gentest"
             }
         },
         "24.1": {
@@ -562,7 +585,7 @@
                     "msec": 30199,
                     "sec": 30.199
                 },
-                "value": "Det gör att jättesidan ni börjar träffas"
+                "value": "ber dig att göra ett gentest innan ni börjar träffas"
             }
         },
         "28.6": {
@@ -742,7 +765,7 @@
                     "msec": 46299,
                     "sec": 46.299
                 },
-                "value": "Bra fråga Mårve Skulle du ta det här testet"
+                "value": "och frågan var väl helt enkelt skulle du ta det här testet"
             }
         },
         "47.6": {
@@ -1246,7 +1269,7 @@
                     "msec": 95000,
                     "sec": 95.0
                 },
-                "value": "Att du har gått före i prapptiden"
+                "value": "Att du i framtiden"
             }
         },
         "95.7": {
@@ -1269,7 +1292,30 @@
                     "msec": 96900,
                     "sec": 96.9
                 },
-                "value": "Det var väl trevligt"
+                "value": "kommer bli en"
+            }
+        },
+        "98.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:01:38.700",
+                    "hhmmssff": "00:01:38:17",
+                    "msec": 98700,
+                    "sec": 98.7
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.240",
+                    "hhmmssff": "00:00:00:06",
+                    "msec": 240,
+                    "sec": 0.24
+                },
+                "end": {
+                    "hhmmssddd": "00:01:38.940",
+                    "hhmmssff": "00:01:38:23",
+                    "msec": 98940,
+                    "sec": 98.94
+                },
+                "value": "ja"
             }
         },
         "99.2": {
@@ -1292,7 +1338,7 @@
                     "msec": 99799,
                     "sec": 99.799
                 },
-                "value": "Sebbe"
+                "value": "sämre"
             }
         },
         "100.0": {
@@ -1315,7 +1361,7 @@
                     "msec": 101599,
                     "sec": 101.599
                 },
-                "value": "Partut eller vad man ska säga"
+                "value": "partner eller vad man ska säga"
             }
         },
         "101.3": {
@@ -1384,7 +1430,7 @@
                     "msec": 105900,
                     "sec": 105.9
                 },
-                "value": "Det finns känslor som kan upptäckas direkt"
+                "value": "något som tekniken skulle kunna upptäcka direkt"
             }
         },
         "106.8": {
@@ -1702,7 +1748,7 @@
                     "msec": 128699,
                     "sec": 128.699
                 },
-                "value": "Vet du"
+                "value": "jag vet inte"
             }
         },
         "131.0": {
@@ -1725,7 +1771,7 @@
                     "msec": 136099,
                     "sec": 136.099
                 },
-                "value": "Det var inte som på Kura Frågan att alla måste testa sig"
+                "value": "Det var inte som på förra frågan att det almänt okej att alla måste testa sig"
             }
         },
         "136.4": {
@@ -1748,7 +1794,7 @@
                     "msec": 137400,
                     "sec": 137.4
                 },
-                "value": "I papper"
+                "value": "innan"
             }
         },
         "138.9": {
@@ -1771,7 +1817,7 @@
                     "msec": 140800,
                     "sec": 140.8
                 },
-                "value": "Tycker jag att vita någon annan på det"
+                "value": "så då kan jag byta till någon annan antar jag"
             }
         },
         "141.5": {
@@ -1928,7 +1974,7 @@
                     "msec": 150300,
                     "sec": 150.3
                 },
-                "value": "Säg att det är hej då"
+                "value": "Säga nej hej då"
             }
         },
         "152.0": {
@@ -2111,6 +2157,29 @@
                 "value": "Det där du sa om"
             }
         },
+        "170.2": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:02:50.170",
+                    "hhmmssff": "00:02:50:04",
+                    "msec": 170170,
+                    "sec": 170.17
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.230",
+                    "hhmmssff": "00:00:00:05",
+                    "msec": 230,
+                    "sec": 0.23
+                },
+                "end": {
+                    "hhmmssddd": "00:02:50.400",
+                    "hhmmssff": "00:02:50:10",
+                    "msec": 170400,
+                    "sec": 170.4
+                },
+                "value": "att"
+            }
+        },
         "170.7": {
             "operator": {
                 "begin": {
@@ -2200,7 +2269,7 @@
                     "msec": 181300,
                     "sec": 181.3
                 },
-                "value": "Att man själv har någon ärflig sjukdom"
+                "value": "Att man själv har någon sjukdom någon ärflig sjukdom"
             }
         },
         "181.6": {
@@ -2290,7 +2359,7 @@
                     "msec": 189199,
                     "sec": 189.199
                 },
-                "value": "Jag på att säga att det bara ger utslag åt ni två"
+                "value": "nej precis att det bara ger utslag om ni är två"
             },
             "production_annotation": {
                 "begin": {
@@ -2334,7 +2403,7 @@
                     "msec": 190500,
                     "sec": 190.5
                 },
-                "value": "Det är det liksom"
+                "value": "bärande liksom"
             }
         },
         "191.7": {
@@ -2357,7 +2426,7 @@
                     "msec": 194800,
                     "sec": 194.8
                 },
-                "value": "Båda har anlaget då blir det"
+                "value": "om Båda har anlaget då blir det krock och då blir det"
             }
         },
         "192.9": {
@@ -2403,7 +2472,7 @@
                     "msec": 198199,
                     "sec": 198.199
                 },
-                "value": "Det är inte bra liksom men om det bara är en så är det okej"
+                "value": "inte bra liksom men om det bara är en så är det okej"
             }
         },
         "200.3": {
@@ -2438,16 +2507,16 @@
                     "sec": 201.699
                 },
                 "duration": {
-                    "hhmmssddd": "00:00:01.900",
-                    "hhmmssff": "00:00:01:22",
-                    "msec": 1900,
-                    "sec": 1.9
+                    "hhmmssddd": "00:00:00.301",
+                    "hhmmssff": "00:00:00:07",
+                    "msec": 301,
+                    "sec": 0.301
                 },
                 "end": {
-                    "hhmmssddd": "00:03:23.599",
-                    "hhmmssff": "00:03:23:14",
-                    "msec": 203599,
-                    "sec": 203.599
+                    "hhmmssddd": "00:03:22.000",
+                    "hhmmssff": "00:03:22:00",
+                    "msec": 202000,
+                    "sec": 202.0
                 },
                 "value": ""
             },
@@ -2474,6 +2543,27 @@
             }
         },
         "202.9": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:03:22.900",
+                    "hhmmssff": "00:03:22:22",
+                    "msec": 202900,
+                    "sec": 202.9
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.699",
+                    "hhmmssff": "00:00:00:17",
+                    "msec": 699,
+                    "sec": 0.699
+                },
+                "end": {
+                    "hhmmssddd": "00:03:23.599",
+                    "hhmmssff": "00:03:23:14",
+                    "msec": 203599,
+                    "sec": 203.599
+                },
+                "value": ""
+            },
             "participant": {
                 "begin": {
                     "hhmmssddd": "00:03:22.900",
@@ -2609,6 +2699,50 @@
                 "value": "Men fortfarande det är just det här att det skulle vara liksom innan första dejten känns väldigt extremt"
             }
         },
+        "211.3": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:03:31.310",
+                    "hhmmssff": "00:03:31:07",
+                    "msec": 211310,
+                    "sec": 211.31
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.350",
+                    "hhmmssff": "00:00:00:08",
+                    "msec": 350,
+                    "sec": 0.35
+                },
+                "end": {
+                    "hhmmssddd": "00:03:31.660",
+                    "hhmmssff": "00:03:31:16",
+                    "msec": 211660,
+                    "sec": 211.66
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:03:31.310",
+                    "hhmmssff": "00:03:31:07",
+                    "msec": 211310,
+                    "sec": 211.31
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.350",
+                    "hhmmssff": "00:00:00:08",
+                    "msec": 350,
+                    "sec": 0.35
+                },
+                "end": {
+                    "hhmmssddd": "00:03:31.660",
+                    "hhmmssff": "00:03:31:16",
+                    "msec": 211660,
+                    "sec": 211.66
+                },
+                "value": "ja"
+            }
+        },
         "212.6": {
             "confidence_production": {
                 "begin": {
@@ -2650,7 +2784,7 @@
                     "msec": 216099,
                     "sec": 216.099
                 },
-                "value": "Vad är det du skulle tänka dig att administrera då"
+                "value": "Vad är det du skulle tänka dig att applicera den när du letar"
             },
             "production_annotation": {
                 "begin": {
@@ -2694,7 +2828,7 @@
                     "msec": 218699,
                     "sec": 218.699
                 },
-                "value": "Är det det att du skickar ut så på"
+                "value": "när du dejtar att du skickar ut såna"
             }
         },
         "219.8": {
@@ -2763,7 +2897,7 @@
                     "msec": 223199,
                     "sec": 223.199
                 },
-                "value": "Krav på test var jättetäckigt"
+                "value": "Krav på test helt enkelt"
             }
         },
         "224.6": {
@@ -2913,18 +3047,18 @@
                     "sec": 236.4
                 },
                 "duration": {
-                    "hhmmssddd": "00:00:00.400",
-                    "hhmmssff": "00:00:00:10",
-                    "msec": 400,
-                    "sec": 0.4
+                    "hhmmssddd": "00:00:00.700",
+                    "hhmmssff": "00:00:00:17",
+                    "msec": 700,
+                    "sec": 0.7
                 },
                 "end": {
-                    "hhmmssddd": "00:03:56.800",
-                    "hhmmssff": "00:03:56:20",
-                    "msec": 236800,
-                    "sec": 236.8
+                    "hhmmssddd": "00:03:57.100",
+                    "hhmmssff": "00:03:57:02",
+                    "msec": 237100,
+                    "sec": 237.1
                 },
-                "value": "Det finns människor"
+                "value": "eh"
             }
         },
         "237.8": {
@@ -2950,6 +3084,50 @@
                 "value": "Att jag trivs med den personen som jag dejtar först och främst"
             }
         },
+        "239.2": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:03:59.170",
+                    "hhmmssff": "00:03:59:04",
+                    "msec": 239170,
+                    "sec": 239.17
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.300",
+                    "hhmmssff": "00:00:00:07",
+                    "msec": 300,
+                    "sec": 0.3
+                },
+                "end": {
+                    "hhmmssddd": "00:03:59.470",
+                    "hhmmssff": "00:03:59:11",
+                    "msec": 239470,
+                    "sec": 239.47
+                },
+                "value": ""
+            },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:03:59.170",
+                    "hhmmssff": "00:03:59:04",
+                    "msec": 239170,
+                    "sec": 239.17
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.300",
+                    "hhmmssff": "00:00:00:07",
+                    "msec": 300,
+                    "sec": 0.3
+                },
+                "end": {
+                    "hhmmssddd": "00:03:59.470",
+                    "hhmmssff": "00:03:59:11",
+                    "msec": 239470,
+                    "sec": 239.47
+                },
+                "value": "ja"
+            }
+        },
         "241.8": {
             "operator": {
                 "begin": {
@@ -2973,19 +3151,19 @@
                 "value": "Och sen om man kan skaffa barn eller inte"
             }
         },
-        "245.0": {
+        "244.6": {
             "confidence_production": {
                 "begin": {
-                    "hhmmssddd": "00:04:05.000",
-                    "hhmmssff": "00:04:05:00",
-                    "msec": 245000,
-                    "sec": 245.0
+                    "hhmmssddd": "00:04:04.590",
+                    "hhmmssff": "00:04:04:14",
+                    "msec": 244590,
+                    "sec": 244.59
                 },
                 "duration": {
-                    "hhmmssddd": "00:00:01.699",
-                    "hhmmssff": "00:00:01:17",
-                    "msec": 1699,
-                    "sec": 1.699
+                    "hhmmssddd": "00:00:02.109",
+                    "hhmmssff": "00:00:02:02",
+                    "msec": 2109,
+                    "sec": 2.109
                 },
                 "end": {
                     "hhmmssddd": "00:04:06.699",
@@ -2995,6 +3173,50 @@
                 },
                 "value": "4"
             },
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:04:04.590",
+                    "hhmmssff": "00:04:04:14",
+                    "msec": 244590,
+                    "sec": 244.59
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.300",
+                    "hhmmssff": "00:00:00:07",
+                    "msec": 300,
+                    "sec": 0.3
+                },
+                "end": {
+                    "hhmmssddd": "00:04:04.890",
+                    "hhmmssff": "00:04:04:22",
+                    "msec": 244890,
+                    "sec": 244.89
+                },
+                "value": "ja"
+            },
+            "production_annotation": {
+                "begin": {
+                    "hhmmssddd": "00:04:04.590",
+                    "hhmmssff": "00:04:04:14",
+                    "msec": 244590,
+                    "sec": 244.59
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:02.109",
+                    "hhmmssff": "00:00:02:02",
+                    "msec": 2109,
+                    "sec": 2.109
+                },
+                "end": {
+                    "hhmmssddd": "00:04:06.699",
+                    "hhmmssff": "00:04:06:17",
+                    "msec": 246699,
+                    "sec": 246.699
+                },
+                "value": "3"
+            }
+        },
+        "245.0": {
             "participant": {
                 "begin": {
                     "hhmmssddd": "00:04:05.000",
@@ -3014,28 +3236,7 @@
                     "msec": 246699,
                     "sec": 246.699
                 },
-                "value": "att de kommer liksom"
-            },
-            "production_annotation": {
-                "begin": {
-                    "hhmmssddd": "00:04:05.000",
-                    "hhmmssff": "00:04:05:00",
-                    "msec": 245000,
-                    "sec": 245.0
-                },
-                "duration": {
-                    "hhmmssddd": "00:00:01.699",
-                    "hhmmssff": "00:00:01:17",
-                    "msec": 1699,
-                    "sec": 1.699
-                },
-                "end": {
-                    "hhmmssddd": "00:04:06.699",
-                    "hhmmssff": "00:04:06:17",
-                    "msec": 246699,
-                    "sec": 246.699
-                },
-                "value": "3"
+                "value": "då får man ta det som det kommer liksom"
             }
         },
         "246.8": {
@@ -3215,7 +3416,7 @@
                     "msec": 257399,
                     "sec": 257.399
                 },
-                "value": "Vad som"
+                "value": "Vad så"
             }
         },
         "257.5": {
@@ -3284,7 +3485,7 @@
                     "msec": 263899,
                     "sec": 263.899
                 },
-                "value": "Det känns inte som att det finns stor risk"
+                "value": "Det känns inte som att det finns stor risk men det känns mycket jag vet inte"
             }
         },
         "264.2": {
@@ -3416,7 +3617,7 @@
                     "msec": 277000,
                     "sec": 277.0
                 },
-                "value": "Ja jag vill nog bara inte ha nånting"
+                "value": "Ja jo om man inte har någon"
             }
         },
         "279.8": {
@@ -3439,7 +3640,7 @@
                     "msec": 285000,
                     "sec": 285.0
                 },
-                "value": "Ja med kan tricket vara för korrekt om man skulle kunna upptäcka på en sånt där"
+                "value": "Ja men det kan ju helt enkelt vara korrekt då om man skulle kunna upptäcka på en sånt där men eh"
             }
         },
         "285.8": {
@@ -3485,7 +3686,7 @@
                     "msec": 291699,
                     "sec": 291.699
                 },
-                "value": "Ja att säga det då"
+                "value": "Ja att säga det någon"
             }
         },
         "292.1": {
@@ -3575,7 +3776,7 @@
                     "msec": 300100,
                     "sec": 300.1
                 },
-                "value": "Det"
+                "value": "jag vet inte"
             },
             "production_annotation": {
                 "begin": {
@@ -3642,7 +3843,7 @@
                     "msec": 310699,
                     "sec": 310.699
                 },
-                "value": "Bara för att båda alla har för nåt så finns det ju inget"
+                "value": "ja jag vet inte bara för att man har anlag för någonting har för någonting så finns det ju inget"
             }
         },
         "312.5": {
@@ -3688,7 +3889,7 @@
                     "msec": 318500,
                     "sec": 318.5
                 },
-                "value": "faktiskt ympklas till"
+                "value": "faktiskt utväcklas till någonting"
             }
         },
         "319.9": {
@@ -3711,7 +3912,7 @@
                     "msec": 320899,
                     "sec": 320.899
                 },
-                "value": "Sen ser ju"
+                "value": "så det känns ju"
             }
         },
         "324.6": {
@@ -3734,7 +3935,7 @@
                     "msec": 328899,
                     "sec": 328.899
                 },
-                "value": "Det är konstigt att ha sådana där på första dejten bara"
+                "value": "Det känns konstigt att avfärda någon direkt sådär där på första dejten bara"
             }
         },
         "333.4": {
@@ -3757,7 +3958,7 @@
                     "msec": 338399,
                     "sec": 338.399
                 },
-                "value": "Sen vet man aldrig för alltid att det är eget så man kan söka på"
+                "value": "Sen vet man aldrig i framtident med genmodifiering och sånt man kan"
             }
         },
         "338.5": {
@@ -3803,7 +4004,7 @@
                     "msec": 341100,
                     "sec": 341.1
                 },
-                "value": "Det blev lite"
+                "value": "ändra lite och"
             }
         },
         "341.9": {
@@ -3939,7 +4140,7 @@
                     "msec": 349300,
                     "sec": 349.3
                 },
-                "value": "Amanda krister och grejer"
+                "value": "Amanda CRISPR och grejer"
             }
         },
         "350.8": {
@@ -3983,7 +4184,7 @@
                     "msec": 356500,
                     "sec": 356.5
                 },
-                "value": "Det hade säkert varit tagits att det är kul"
+                "value": "jag hade varit nyfiken absolut gåt och ta ett sånt där test bara för att det är kul och"
             },
             "production_annotation": {
                 "begin": {
@@ -4050,7 +4251,7 @@
                     "msec": 358399,
                     "sec": 358.399
                 },
-                "value": "Bra att veta liksom"
+                "value": "eller ja Bra att veta liksom"
             }
         },
         "359.5": {
@@ -4119,7 +4320,7 @@
                     "msec": 363500,
                     "sec": 363.5
                 },
-                "value": "Vad av"
+                "value": "i innan en"
             }
         },
         "366.2": {
@@ -4142,7 +4343,7 @@
                     "msec": 367399,
                     "sec": 367.399
                 },
-                "value": "det första bit"
+                "value": "det första första"
             }
         },
         "368.6": {
@@ -4255,7 +4456,7 @@
                     "msec": 384199,
                     "sec": 384.199
                 },
-                "value": "Det är snart nu"
+                "value": "även ja jag vet inte finns det något nummer på hur många"
             },
             "production_annotation": {
                 "begin": {
@@ -4299,7 +4500,7 @@
                     "msec": 388699,
                     "sec": 388.699
                 },
-                "value": "Eller ge baka kjettaatt itatt det hadde vært livlig"
+                "value": "hur länge man kan känna till något innan en rimlig"
             }
         },
         "390.7": {
@@ -4659,7 +4860,7 @@
                     "msec": 412699,
                     "sec": 412.699
                 },
-                "value": "Samtidigt så är det nog en säkerhet"
+                "value": "Samtidigt så om det är någon som känner"
             }
         },
         "414.8": {
@@ -4728,7 +4929,7 @@
                     "msec": 422500,
                     "sec": 422.5
                 },
-                "value": "Det har ni ju gått jäkla lågt"
+                "value": "Det har det ju gått ganska lång tid liksom"
             }
         },
         "424.7": {
@@ -4943,16 +5144,16 @@
                     "sec": 433.899
                 },
                 "duration": {
-                    "hhmmssddd": "00:00:13.300",
-                    "hhmmssff": "00:00:13:07",
-                    "msec": 13300,
-                    "sec": 13.3
+                    "hhmmssddd": "00:00:13.941",
+                    "hhmmssff": "00:00:13:23",
+                    "msec": 13941,
+                    "sec": 13.941
                 },
                 "end": {
-                    "hhmmssddd": "00:07:27.199",
-                    "hhmmssff": "00:07:27:04",
-                    "msec": 447199,
-                    "sec": 447.199
+                    "hhmmssddd": "00:07:27.840",
+                    "hhmmssff": "00:07:27:21",
+                    "msec": 447840,
+                    "sec": 447.84
                 },
                 "value": "4"
             },
@@ -4975,7 +5176,7 @@
                     "msec": 437300,
                     "sec": 437.3
                 },
-                "value": "Men samtidigt så är du ju redo att investera"
+                "value": "Men samtidigt som du sa då är man ju redan så investerad att"
             },
             "production_annotation": {
                 "begin": {
@@ -4985,16 +5186,16 @@
                     "sec": 433.899
                 },
                 "duration": {
-                    "hhmmssddd": "00:00:13.300",
-                    "hhmmssff": "00:00:13:07",
-                    "msec": 13300,
-                    "sec": 13.3
+                    "hhmmssddd": "00:00:13.941",
+                    "hhmmssff": "00:00:13:23",
+                    "msec": 13941,
+                    "sec": 13.941
                 },
                 "end": {
-                    "hhmmssddd": "00:07:27.199",
-                    "hhmmssff": "00:07:27:04",
-                    "msec": 447199,
-                    "sec": 447.199
+                    "hhmmssddd": "00:07:27.840",
+                    "hhmmssff": "00:07:27:21",
+                    "msec": 447840,
+                    "sec": 447.84
                 },
                 "value": "2"
             }
@@ -5065,7 +5266,7 @@
                     "msec": 446300,
                     "sec": 446.3
                 },
-                "value": "Jag vet inte om man tar det samtidigt"
+                "value": "då får man ta det som det kommer då istället"
             }
         },
         "446.5": {
@@ -5088,7 +5289,30 @@
                     "msec": 447199,
                     "sec": 447.199
                 },
-                "value": "Lite"
+                "value": "inte"
+            }
+        },
+        "447.7": {
+            "participant": {
+                "begin": {
+                    "hhmmssddd": "00:07:27.690",
+                    "hhmmssff": "00:07:27:17",
+                    "msec": 447690,
+                    "sec": 447.69
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.150",
+                    "hhmmssff": "00:00:00:03",
+                    "msec": 150,
+                    "sec": 0.15
+                },
+                "end": {
+                    "hhmmssddd": "00:07:27.840",
+                    "hhmmssff": "00:07:27:21",
+                    "msec": 447840,
+                    "sec": 447.84
+                },
+                "value": "ja"
             }
         },
         "451.4": {
@@ -5318,7 +5542,7 @@
                     "msec": 474199,
                     "sec": 474.199
                 },
-                "value": "Vad är talas om DNAtest tidigare"
+                "value": "att ta ett sånt där DNAtest tidigare"
             }
         },
         "475.4": {
@@ -5634,7 +5858,7 @@
                     "msec": 503800,
                     "sec": 503.8
                 },
-                "value": "Om det var någon som var onice"
+                "value": "Om det var någon som var onice liksom"
             }
         },
         "504.4": {
@@ -5657,7 +5881,7 @@
                     "msec": 514899,
                     "sec": 514.899
                 },
-                "value": "Att han skulle liksom ja men du har ju anlag för de här psykiska sjukdomarna det är därför du håller på att klaga nu och bete dig hysteriskt"
+                "value": "Att han skulle liksom ja men du har ju anlag för de här och de här och de här psykiska sjukdomarna det är därför du håller på att klaga nu och bete dig hysteriskt"
             }
         },
         "513.3": {
@@ -5879,7 +6103,7 @@
                     "msec": 524100,
                     "sec": 524.1
                 },
-                "value": "Ja det var något jag tänker på"
+                "value": "Ja det var något jag tänker på ja ja"
             }
         },
         "524.3": {
@@ -5925,7 +6149,7 @@
                     "msec": 526000,
                     "sec": 526.0
                 },
-                "value": "Jag har då"
+                "value": "jag kommer inte ihåg"
             }
         },
         "526.8": {
@@ -6105,7 +6329,7 @@
                     "msec": 540500,
                     "sec": 540.5
                 },
-                "value": "Alltså"
+                "value": "men Alltså"
             }
         },
         "540.7": {
@@ -6151,7 +6375,7 @@
                     "msec": 548299,
                     "sec": 548.299
                 },
-                "value": "Det känns jätteklyftigt att ha partners"
+                "value": "genetiskt det är klar det känns inte jätteklokt att ha en partner som"
             }
         },
         "550.5": {
@@ -6197,7 +6421,7 @@
                     "msec": 554399,
                     "sec": 554.399
                 },
-                "value": "Man vet inte skulle vilja ha en"
+                "value": "Man vet inte skulle vilja ha en om"
             }
         },
         "555.6": {
@@ -6220,7 +6444,53 @@
                     "msec": 559299,
                     "sec": 559.299
                 },
-                "value": "Ja bara okej för någon olycka eller utveckla liksom"
+                "value": "Ja råkar ut för någon olycka eller utveckla liksom"
+            }
+        },
+        "555.9": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:09:15.890",
+                    "hhmmssff": "00:09:15:22",
+                    "msec": 555890,
+                    "sec": 555.89
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.350",
+                    "hhmmssff": "00:00:00:08",
+                    "msec": 350,
+                    "sec": 0.35
+                },
+                "end": {
+                    "hhmmssddd": "00:09:16.240",
+                    "hhmmssff": "00:09:16:06",
+                    "msec": 556240,
+                    "sec": 556.24
+                },
+                "value": "mhm"
+            }
+        },
+        "559.0": {
+            "operator": {
+                "begin": {
+                    "hhmmssddd": "00:09:19.010",
+                    "hhmmssff": "00:09:19:00",
+                    "msec": 559010,
+                    "sec": 559.01
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.710",
+                    "hhmmssff": "00:00:00:17",
+                    "msec": 710,
+                    "sec": 0.71
+                },
+                "end": {
+                    "hhmmssddd": "00:09:19.720",
+                    "hhmmssff": "00:09:19:18",
+                    "msec": 559720,
+                    "sec": 559.72
+                },
+                "value": "eller hur"
             }
         },
         "559.9": {
@@ -6266,7 +6536,7 @@
                     "msec": 563200,
                     "sec": 563.2
                 },
-                "value": "Det kanske om"
+                "value": "sen kanske om"
             }
         },
         "565.1": {
@@ -6312,7 +6582,7 @@
                     "msec": 577000,
                     "sec": 577.0
                 },
-                "value": "Och man kunde ta ett sånt test och se jättetydligt att min egen partner var narcissist eller hande såna där psykiska"
+                "value": "Och man kunde ta ett sånt test och se jättetydligt att min egen partner var narcissist eller hande såna där psykiska då hade jag ju varit"
             }
         },
         "578.0": {
@@ -6335,7 +6605,7 @@
                     "msec": 580000,
                     "sec": 580.0
                 },
-                "value": "Jag hade nog själv varit djuptiken"
+                "value": "Jag hade nog själv varit nyfiken att"
             }
         },
         "581.1": {
@@ -6358,7 +6628,7 @@
                     "msec": 582399,
                     "sec": 582.399
                 },
-                "value": "Gör ett sånt test på det"
+                "value": "Gör ett sånt test på dem"
             }
         },
         "582.5": {
@@ -6519,7 +6789,7 @@
                     "msec": 598200,
                     "sec": 598.2
                 },
-                "value": "om en person vet störningar så att det var"
+                "value": "om en person vet störningar så att det varit"
             }
         },
         "599.6": {

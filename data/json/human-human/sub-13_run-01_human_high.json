@@ -5139,16 +5139,16 @@
                     "sec": 415.5
                 },
                 "duration": {
-                    "hhmmssddd": "00:00:01.700",
-                    "hhmmssff": "00:00:01:17",
-                    "msec": 1700,
-                    "sec": 1.7
+                    "hhmmssddd": "00:00:00.900",
+                    "hhmmssff": "00:00:00:22",
+                    "msec": 900,
+                    "sec": 0.9
                 },
                 "end": {
-                    "hhmmssddd": "00:06:57.200",
-                    "hhmmssff": "00:06:57:05",
-                    "msec": 417200,
-                    "sec": 417.2
+                    "hhmmssddd": "00:06:56.400",
+                    "hhmmssff": "00:06:56:10",
+                    "msec": 416400,
+                    "sec": 416.4
                 },
                 "value": ""
             },
@@ -5175,6 +5175,27 @@
             }
         },
         "416.8": {
+            "backchannels": {
+                "begin": {
+                    "hhmmssddd": "00:06:56.800",
+                    "hhmmssff": "00:06:56:20",
+                    "msec": 416800,
+                    "sec": 416.8
+                },
+                "duration": {
+                    "hhmmssddd": "00:00:00.400",
+                    "hhmmssff": "00:00:00:10",
+                    "msec": 400,
+                    "sec": 0.4
+                },
+                "end": {
+                    "hhmmssddd": "00:06:57.200",
+                    "hhmmssff": "00:06:57:05",
+                    "msec": 417200,
+                    "sec": 417.2
+                },
+                "value": ""
+            },
             "participant": {
                 "begin": {
                     "hhmmssddd": "00:06:56.800",
